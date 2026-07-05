@@ -1,0 +1,14 @@
+# Python 3.11 — install into the project venv:
+#   source .venv/bin/activate
+#   pip install -r requirements.txt
+#
+# Pin exact versions (pkg==x.y.z) as you add them so the environment is
+# reproducible. Regenerate a full lock of what's installed with:
+#   pip freeze > requirements.txt
+#
+# --- dependencies ---
+datasets==5.0.0
+python-dotenv==1.2.2
+numpy==2.4.6
+pandas==3.0.3
+python-dotenv==1.2.2

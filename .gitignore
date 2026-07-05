@@ -1,0 +1,37 @@
+# Working scratch directory
+temp_explore/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# ML artifacts (weights, checkpoints, logs)
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+checkpoints/
+wandb/
+logs/
+
+# Large data (uncomment if you don't want corpora in git)
+# data/
