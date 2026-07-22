@@ -117,12 +117,20 @@ The action vocabulary distinction is deliberate: `no_action` (never reviewed) an
 overturn rate is measurable.
 
 **Running it.** `build_dataset.py` is the entry point: it ensures `pre_clean_data.parquet`
-exists (running the ingest if it does not), then cleans every row through the harness. The
+exists (running the ingest if it does not), then cleans the corpus through the harness. The
 cleaned text is written to a new `validated_text` column; the original `text` is left
-untouched and every other column is preserved. It is resume-aware — each cleaned row is
-checkpointed as it completes, so a re-run (or `--limit N` for a partial pass) skips finished
-rows and continues where it left off. The final `cleaned_data.parquet` is written only once
-every row is done.
+untouched and every other column is preserved. Rows are processed by a thread pool
+(`WORKERS`, default 40) in batches of `BATCH_SIZE` (default 95,000 — under Gemini's daily
+request cap); after each batch it pauses for `[C]ontinue` / `[Q]uit`. It is resume-aware —
+each cleaned row is checkpointed as it completes (with per-row backoff on transient errors),
+so a re-run (or `--limit N` for a single partial pass) skips finished rows and continues. The
+final `cleaned_data.parquet` is written only once every row is done.
+
+**Cost — TODO before the full run.** The full-corpus run at the current config (3-model
+panel, `gpt-4o` + `gemini-2.5-flash`) is expensive; the config is tuned for accuracy, not
+cost. Cheaper path, to settle before running all 230k: disable Gemini thinking / use
+`flash-lite`, move OpenAI to a mini tier, gate out no-anchor rows via the `draw_sample` regex
+proxy (~60% of the corpus has no code/nickname), and use the providers' batch APIs (~50% off).
 
 ---
 
