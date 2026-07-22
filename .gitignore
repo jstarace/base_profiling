@@ -33,5 +33,6 @@ checkpoints/
 wandb/
 logs/
 
-# Large data (uncomment if you don't want corpora in git)
-# data/
+# Large data — corpora and generated datasets never go in git
+*.parquet
+*.checkpoint.jsonl

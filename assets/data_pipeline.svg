@@ -1,0 +1,96 @@
+<svg viewBox="0 0 980 600" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica Neue, Arial, sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#4A4A55"/>
+    </marker>
+    <marker id="arrd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#C08A3E"/>
+    </marker>
+  </defs>
+
+  <!-- orchestrator banner -->
+  <rect x="20" y="12" width="940" height="36" rx="8" fill="#F5F5F7" stroke="#B9B9C2"/>
+  <text x="490" y="35" text-anchor="middle" font-size="13" fill="#2B2B33">
+    <tspan font-weight="bold">data/orchestrator.py</tspan> drives the flow: download missing raw sets, manipulate to the common schema, combine, write the corpus
+  </text>
+
+  <!-- Band A: ingest -->
+  <rect x="20" y="78" width="200" height="84" rx="8" fill="#FFFFFF" stroke="#3D5A80" stroke-dasharray="5 4"/>
+  <text x="120" y="102" text-anchor="middle" font-size="13" font-weight="bold" fill="#2B2B33">Hugging Face sources</text>
+  <text x="120" y="124" text-anchor="middle" font-size="11" font-family="Menlo, monospace" fill="#4A4A55">jingjietan/kaggle-mbti</text>
+  <text x="120" y="142" text-anchor="middle" font-size="11" font-family="Menlo, monospace" fill="#4A4A55">minhaozhang/mbti</text>
+
+  <rect x="260" y="78" width="170" height="84" rx="8" fill="#EDF1F7" stroke="#3D5A80"/>
+  <text x="345" y="100" text-anchor="middle" font-size="13" font-weight="bold" fill="#2B2B33">importers/</text>
+  <text x="345" y="120" text-anchor="middle" font-size="11" font-family="Menlo, monospace" fill="#4A4A55">import_*.py</text>
+  <text x="345" y="138" text-anchor="middle" font-size="11" fill="#6B6B75">download only,</text>
+  <text x="345" y="153" text-anchor="middle" font-size="11" fill="#6B6B75">skip if raw exists</text>
+
+  <rect x="470" y="78" width="170" height="84" rx="8" fill="#FDF6E7" stroke="#C08A3E"/>
+  <text x="555" y="102" text-anchor="middle" font-size="13" font-weight="bold" fill="#2B2B33">data/raw_data/</text>
+  <text x="555" y="124" text-anchor="middle" font-size="11" fill="#6B6B75">one raw parquet</text>
+  <text x="555" y="140" text-anchor="middle" font-size="11" fill="#6B6B75">per source</text>
+
+  <rect x="680" y="78" width="200" height="84" rx="8" fill="#EDF1F7" stroke="#3D5A80"/>
+  <text x="780" y="100" text-anchor="middle" font-size="13" font-weight="bold" fill="#2B2B33">manipulators/</text>
+  <text x="780" y="120" text-anchor="middle" font-size="11" fill="#6B6B75">raw rows to the common</text>
+  <text x="780" y="136" text-anchor="middle" font-size="11" fill="#6B6B75">schema, one row per</text>
+  <text x="780" y="152" text-anchor="middle" font-size="11" fill="#6B6B75">author, then per chunk</text>
+
+  <line x1="220" y1="120" x2="256" y2="120" stroke="#4A4A55" stroke-width="1.6" marker-end="url(#arr)"/>
+  <line x1="430" y1="120" x2="466" y2="120" stroke="#4A4A55" stroke-width="1.6" marker-end="url(#arr)"/>
+  <line x1="640" y1="120" x2="676" y2="120" stroke="#4A4A55" stroke-width="1.6" marker-end="url(#arr)"/>
+
+  <!-- Band B: shared utilities feeding manipulators -->
+  <rect x="470" y="212" width="160" height="58" rx="8" fill="#EDF4EE" stroke="#4E7A57"/>
+  <text x="550" y="235" text-anchor="middle" font-size="12" font-weight="bold" font-family="Menlo, monospace" fill="#2B2B33">schema.py</text>
+  <text x="550" y="254" text-anchor="middle" font-size="11" fill="#6B6B75">the column contract</text>
+
+  <rect x="660" y="212" width="200" height="58" rx="8" fill="#EDF4EE" stroke="#4E7A57"/>
+  <text x="760" y="235" text-anchor="middle" font-size="12" font-weight="bold" font-family="Menlo, monospace" fill="#2B2B33">chunking.py</text>
+  <text x="760" y="254" text-anchor="middle" font-size="11" fill="#6B6B75">11,000 char cap, # / Tot</text>
+
+  <line x1="560" y1="212" x2="722" y2="166" stroke="#4E7A57" stroke-width="1.4" marker-end="url(#arr)"/>
+  <line x1="765" y1="212" x2="775" y2="166" stroke="#4E7A57" stroke-width="1.4" marker-end="url(#arr)"/>
+
+  <!-- elbow from manipulators to pre_clean -->
+  <path d="M 880 120 L 932 120 L 932 352 L 886 352" fill="none" stroke="#4A4A55" stroke-width="1.6" marker-end="url(#arr)"/>
+
+  <!-- Band C: corpus and cleaning -->
+  <rect x="680" y="310" width="200" height="84" rx="8" fill="#FDF6E7" stroke="#C08A3E"/>
+  <text x="780" y="330" text-anchor="middle" font-size="11" font-family="Menlo, monospace" fill="#6B6B75">processed_data/</text>
+  <text x="780" y="350" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#2B2B33">pre_clean_data.parquet</text>
+  <text x="780" y="368" text-anchor="middle" font-size="11" fill="#6B6B75">230,367 rows, the corpus</text>
+  <text x="780" y="383" text-anchor="middle" font-size="11" fill="#6B6B75">fed to the judges</text>
+
+  <rect x="390" y="310" width="220" height="84" rx="8" fill="#EDF1F7" stroke="#3D5A80"/>
+  <text x="500" y="336" text-anchor="middle" font-size="13" font-weight="bold" fill="#2B2B33">cleaning pipeline</text>
+  <text x="500" y="356" text-anchor="middle" font-size="11" fill="#6B6B75">3 judge panel + final judge</text>
+  <text x="500" y="374" text-anchor="middle" font-size="11" font-family="Menlo, monospace" fill="#6B6B75">see cleaning_pipeline.svg</text>
+
+  <rect x="110" y="310" width="210" height="84" rx="8" fill="#F3ECF5" stroke="#7B4E8C"/>
+  <text x="215" y="334" text-anchor="middle" font-size="11" font-family="Menlo, monospace" fill="#6B6B75">processed_data/</text>
+  <text x="215" y="354" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#2B2B33">cleaned_data.parquet</text>
+  <text x="215" y="373" text-anchor="middle" font-size="11" fill="#6B6B75">final output</text>
+
+  <line x1="680" y1="352" x2="614" y2="352" stroke="#4A4A55" stroke-width="1.6" marker-end="url(#arr)"/>
+  <line x1="390" y1="352" x2="324" y2="352" stroke="#4A4A55" stroke-width="1.6" marker-end="url(#arr)"/>
+
+  <!-- Band D: validation baseline -->
+  <rect x="560" y="460" width="260" height="72" rx="8" fill="#FFFFFF" stroke="#C08A3E" stroke-dasharray="5 4"/>
+  <text x="690" y="483" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#2B2B33">mbti_profiles.parquet</text>
+  <text x="690" y="502" text-anchor="middle" font-size="11" fill="#6B6B75">validation baseline: the jingjietan</text>
+  <text x="690" y="517" text-anchor="middle" font-size="11" fill="#6B6B75">flow must reproduce it exactly</text>
+  <line x1="700" y1="460" x2="762" y2="398" stroke="#C08A3E" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#arrd)"/>
+
+  <!-- legend -->
+  <text x="20" y="452" font-size="11" font-weight="bold" fill="#2B2B33">legend</text>
+  <rect x="20" y="462" width="14" height="14" rx="3" fill="#EDF1F7" stroke="#3D5A80"/>
+  <text x="42" y="473" font-size="11" fill="#4A4A55">process</text>
+  <rect x="20" y="484" width="14" height="14" rx="3" fill="#FDF6E7" stroke="#C08A3E"/>
+  <text x="42" y="495" font-size="11" fill="#4A4A55">data on disk</text>
+  <rect x="20" y="506" width="14" height="14" rx="3" fill="#EDF4EE" stroke="#4E7A57"/>
+  <text x="42" y="517" font-size="11" fill="#4A4A55">shared utility</text>
+  <rect x="20" y="528" width="14" height="14" rx="3" fill="#F3ECF5" stroke="#7B4E8C"/>
+  <text x="42" y="539" font-size="11" fill="#4A4A55">final output</text>
+</svg>
