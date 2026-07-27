@@ -50,9 +50,80 @@ Provenance notes that matter:
   "...", cut mid-clause before the `|||` join. The lost text is unrecoverable. minhaozhang is
   not truncated. This is a stated corpus limitation.
 - **PANDORA** (TakeLab) access has been requested and would be a provenance upgrade if
-  granted (native Big Five and MBTI labels, published paper). Not ingested.
+  granted (native Big Five and MBTI labels, published paper). The original is not ingested;
+  Tan's Big Five redistribution of it is downloaded but unused (§2.1).
 - Datasets that were considered and dropped are logged with reasons in `EXCLUSIONS.md`
   (internal only, not for write-ups).
+
+### 2.1 OCEAN sources (downloaded, not in the corpus)
+
+Two Big Five sources are downloaded and sitting in `raw_data/`. They are **not** part of the
+MBTI corpus: they are not registered in `orchestrator.py`, not reachable from
+`build_dataset.py`, have no manipulator, and the `schema.py` contract does not apply to them.
+They are raw holdings for future OCEAN work.
+
+| importer | dataset | rows | raw file |
+|---|---|---|---|
+| `import_tan_ocean.py` | `jingjietan/essays-big5` | 2,467 | `raw_data/tan_ocean.parquet` (4.8 MB) |
+| `import_tan_pandora.py` | `jingjietan/pandora-big5` | 3,006,566 | `raw_data/tan_pandora.parquet` (480 MB) |
+
+Both ship the same eight columns — `O`, `C`, `E`, `A`, `N`, `ptype`, `text`, and an upstream
+`__index_level_0__` — but with different label encodings:
+
+- **essays-big5**: OCEAN as binary strings (`"0"` / `"1"`), `ptype` a string.
+- **pandora-big5**: OCEAN as float percentiles (0–100), `ptype` an int.
+
+`ptype` in both is a 5-bit packing of the binarized traits,
+`ptype = 16·O + 8·C + 4·E + 2·A + 1·N` (32 values), which is a *different* scheme from the
+corpus's 4-bit MBTI `PTYPE = 8O + 4C + 2E + 1A` (§3). Both were verified empirically at zero
+mismatches: essays directly from its binary columns, and pandora from its percentile columns
+under a strict `> 50` threshold (0 mismatches across all 3,006,566 rows). So pandora's
+upstream binning is a recoverable median split, and `ptype` can be treated as the source of
+truth for a binary OCEAN label without re-deriving a threshold.
+
+Both importers concatenate all three upstream splits (train / validation / test) into one
+frame, deliberately: the two OCEAN sources are expected to be merged and possibly deduped
+later, so split boundaries are not preserved at ingest.
+
+### 2.2 OCEAN class structure and the author-proxy tiering
+
+**All 32 OCEAN classes are retained and trained on all available data. No authors and no rows
+are cut.** Class membership is authoritative from `ptype` (§2.1), so no re-binning is applied.
+
+Row counts overstate trainable diversity: pandora is per-comment with per-author labels, so a
+single author contributes thousands of rows all carrying their one label. The parquet has **no
+author, user, or id column** — its only non-trait column beyond `text` is `__index_level_0__`,
+which is fully distinct across all 3,006,566 rows and is therefore an upstream row index, not
+an author key. The usable diversity metric is the count of distinct `(O, C, E, A, N)`
+percentile tuples, one tuple per author, totaling **1,548** across the corpus (≈1,940 rows per
+author, consistent with PANDORA's published author scale). This is a lower bound: two authors
+sharing an identical five-trait tuple would collapse into one count.
+
+Per-class counts and tiers live in `processed_data/ocean_class_counts.csv` (32 rows: `ptype`,
+`pattern`, `decoded`, `rows`, `distinct_authors`, `tier`, `pct_of_total`). Tiers are cut at the
+two largest ratio breaks in the author distribution — `14 → 8` (1.75×) and `26 → 19` (1.37×):
+
+| tier | distinct authors | classes | rows | authors |
+|---|---|---|---|---|
+| `solid` | ≥ 26 | 24 | 2,862,658 | 1,460 |
+| `asterisk` | 10–25 | 4 (ptype 21, 18, 3, 15) | 99,752 | 66 |
+| `floor` | < 10 | 4 (ptype 22 at 8, 19 at 7, 23 at 5, 7 at 2) | 44,156 | 22 |
+
+The tier column is **annotation only** — it drives no filtering, subsampling, or reordering.
+`asterisk` classes may carry more individual voice than trait signal. `floor` classes are
+trained like the rest but flagged as potentially closer to individual impersonation than trait
+representation; ptype 7 is two people.
+
+Ranking by rows and by authors diverge sharply, which is the reason the proxy matters: ptype 19
+is 25th by rows but 30th by authors (28,097 rows from 7 people), and the largest class, ptype 9,
+is 345,069 rows from 150 authors.
+
+Whether the sparse classes can be reproduced via direction composition rather than their own
+adapters is contingent on the coupling result, not assumed.
+
+Downstream, these 32 classes each get their own LoRA adapter over `meta-llama/Llama-3.1-8B`,
+trained on 3 row-balanced pods. That code is in `training/` and is independent of this corpus
+pipeline — see `training/README.md`.
 
 ---
 
@@ -185,6 +256,7 @@ here so this claim is reproducible from the repo.
 | `judges/` | Role-agnostic model adapters and their role prompts |
 | `cleaning/` | segment, standardize, gates, final judge, transformer, harness, report |
 | `utilities/` | id scheme and run log |
+| `training/` (repo root, not under `dataset_construction/`) | OCEAN LoRA adapter training, independent of this pipeline (§2.2) — see `training/README.md` |
 
 **TODO — docs not yet in this repo.** The design-rationale and ablation docs (ingest design,
 schema parity, ablation methodology, labeling definition, exclusions log) still live in the

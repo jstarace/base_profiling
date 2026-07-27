@@ -30,8 +30,12 @@ Thumbs.db
 *.safetensors
 *.ckpt
 checkpoints/
+_checkpoints/
 wandb/
 logs/
+adapters/
+adapter_model.safetensors
+adapter_config.json
 
 # Large data — corpora and generated datasets never go in git
 *.parquet
