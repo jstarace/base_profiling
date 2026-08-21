@@ -1,0 +1,9 @@
+{
+  "category": "B",
+  "category_label": "Adapter-specific but non-OCEAN structure",
+  "continuous_target_alignment_supported_prompt_groups": 0,
+  "prohibited_inference": "Low-rank or reproducible structure is not by itself five-dimensional OCEAN geometry.",
+  "reliable_held_out_adapter_separation": true,
+  "rule": "A requires held-out separation plus positive Pearson/Spearman continuous-target alignment with permutation support after BH in more than one prompt group; B requires held-out separation without A; otherwise C.",
+  "scope_caution": "Only four adapters; target analyses are exploratory and underpowered."
+}

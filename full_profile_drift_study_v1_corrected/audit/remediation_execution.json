@@ -1,0 +1,43 @@
+{
+  "bh_family_size": 24,
+  "command": "PYTHONPATH=src python -m full_profile_drift.remediation --project .",
+  "environment_manifest": {
+    "path": "environment_manifest.json",
+    "sha256": "13e99e3f649670674c7b1abe67040d94440cff3fd0d4484f3f5dda07d24cdfb8"
+  },
+  "fixed_subset_label_permutations": 3000,
+  "integrity_command": "sha256sum -c ARTIFACT_CHECKSUMS.sha256",
+  "main_effect_label_permutations": 2000,
+  "model_experiments_rerun": false,
+  "requirements_lock": {
+    "path": "requirements.lock.txt",
+    "sha256": "086a868f671b2268e5aec35708b6646528b2bd48a21fb77910480ecff1a481be"
+  },
+  "scope": "analysis-only over existing compact outputs",
+  "seed": 20260803,
+  "source_hashes": {
+    "src/full_profile_drift/__init__.py": "8b455c71d42a3d8fb278aed01930db97ae9d711a30cf86faa430f51de3c29b84",
+    "src/full_profile_drift/analyze.py": "675b045be6209ef0cf0176586a8a8da507a1e08d1b0030d05944ffc037d01d30",
+    "src/full_profile_drift/capture.py": "99456d368e557c7e8753786896fcd64284473e217de5a6f81f17ea70f57d2360",
+    "src/full_profile_drift/catalog.py": "7025ad7a5d2045160c9c2b31bf220e0f92c4a277c8f255c38f1c73876a4231fc",
+    "src/full_profile_drift/continuation.py": "5bd8b3cbf46b7921a76d18c45ab0f5a74b1a00023f782f951aab98f4bd4500f2",
+    "src/full_profile_drift/continuation_analysis.py": "a70962d61acf444d37a5b6a95324ae7cd217ff97fb6bc17e475cf823deec7001",
+    "src/full_profile_drift/environment.py": "06ab38884a4ab87e40ba9f70fde3a48b9a27e76c61b80a47bb67446c78a2d4a8",
+    "src/full_profile_drift/exposure.py": "a0dcb127a8daab5c3dd48e37b78c00ffd05d92913eb8975ebb03f44f426cb045",
+    "src/full_profile_drift/figures.py": "f9f831a320fb6281840ff688281a860235a8af21a98986f619aa5d1c8a1b93f9",
+    "src/full_profile_drift/finalize.py": "a0b27b66cff14536614e10a18cacb0d80d2926ea81107f76352275200ac574fc",
+    "src/full_profile_drift/index_capture.py": "ec5201692b81c6582162ee264e7dfdc898688a6ba05bbdf9cd4331d9e63bd7ac",
+    "src/full_profile_drift/io.py": "6103f8177f407098cb88aa2b8e2bee5a3e4b15ad0477187a24bf5176ede38517",
+    "src/full_profile_drift/manifest.py": "164921cfaccdc65f2e93827fd7de55986d1eb3576385286ad89497c363e9390e",
+    "src/full_profile_drift/preflight.py": "1e7a6d31738ca34d7d004d62a0385bf10818dda175f40a374ddfd8de223f4c04",
+    "src/full_profile_drift/prompts.py": "4a35bbf898b381a16418d9fad3918543019e5003d13d8e89d0d1067dc4f311e2",
+    "src/full_profile_drift/remediation.py": "aed413aebb81702f14dbf8531d9f9a232149f73dfcb3f3e84d6d96833c2d473d",
+    "src/full_profile_drift/report.py": "24e50e1d2d25aa502e1454dcabd44927d43b146fa0b281142247a9346320600a",
+    "src/full_profile_drift/runner.py": "07e181963aa1965bfcb8219551d73608c6306e8ff7b64eab3626bc1beb3abed7",
+    "src/full_profile_drift/smoke.py": "9b8663e1cf4fcee0973785cdc09c6c33630400b065f1715995244657685cc5e8",
+    "src/full_profile_drift/supplemental.py": "65ad3649ce1fe23e65bda87aaa7ea77f81784bc87d30fc5c622cfbea7a8269bf",
+    "src/full_profile_drift/weight_geometry.py": "3b343ee384dd5b76ad0b4f97b75c01e4a3e4e6c45055372340dcc1070dd36da1",
+    "src/full_profile_drift/weight_stats.py": "1609b9ba2d1059354892ebd29bfe731bd95b18f0fde7927d103829447f9bfa11"
+  },
+  "test_command": "PYTHONPATH=src python -m pytest -q"
+}

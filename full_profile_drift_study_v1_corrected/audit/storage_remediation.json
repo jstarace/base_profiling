@@ -1,0 +1,19 @@
+{
+  "event": "network_volume_hidden_quota",
+  "observed_during": "ptype_12 capture metadata write",
+  "network_volume_reported_free_bytes": 341324936052736,
+  "network_volume_study_usage_at_failure": "18G",
+  "network_volume_activation_usage_at_failure": "14G",
+  "network_volume_logit_usage_at_failure": "3.5G",
+  "error": "OSError: [Errno 122] Disk quota exceeded",
+  "completed_network_conditions": [
+    "base", "ptype_0", "ptype_1", "ptype_2", "ptype_3", "ptype_4",
+    "ptype_5", "ptype_6", "ptype_7", "ptype_8", "ptype_9", "ptype_10", "ptype_11"
+  ],
+  "partial_condition_preserved": "ptype_12",
+  "remediation": "Resume ptype_12 through ptype_31 in /root/full_profile_drift_spill on the pod overlay.",
+  "overlay_free_at_remediation": "52G",
+  "computational_change": "none",
+  "runner_change": "Added storage-root routing only; model, tokenizer, prompts, batch size, dtypes, hooks, logits, adapter lifecycle, and frozen manifest remain unchanged.",
+  "deletion_or_overwrite": false
+}

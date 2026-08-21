@@ -1,0 +1,4 @@
+exposure_measure,effect_measure,spearman_rho,spearman_p,spearman_ci_low,spearman_ci_high,interpretation
+retained_tokens,parameter_update_magnitude,0.9442815249266862,5.06291329908165e-16,0.8425333755479109,0.9812839242868568,very strong parameter-space scaling
+retained_tokens,activation_effect_magnitude,0.4871700879765395,0.0046859759275317,0.1214945965281459,0.7831246547597127,moderate activation association
+retained_tokens,logit_effect_magnitude,0.1744868035190615,0.339511889734369,-0.2449201613314773,0.5297815676106966,weak logit association

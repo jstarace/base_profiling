@@ -2,7 +2,7 @@
 
 Self-contained for a fresh RunPod pod: pulls pandora-big5 from HuggingFace, trains every
 ptype in the group sequentially, writes each adapter to $ADAPTER_OUT_DIR/ptype_<N>/, exits.
-Resume-safe — a ptype whose adapter already exists on the volume is skipped.
+Resume-safe: a ptype whose adapter already exists on the volume is skipped.
 
     python training/train_ocean_adapters.py --group 0
 
@@ -50,6 +50,9 @@ def main():
 
     group_start = time.time()
     for i, ptype in enumerate(pending, 1):
+        # The verified upstream integer is the complete class identity. Training
+        # never reconstructs it from dataframe column order. The same integer is
+        # preserved in the directory name so ptype N always maps to ptype_N.
         out_dir = out_root / f"ptype_{ptype}"
         rows = ds.filter(lambda ex: ex["ptype"] == ptype, num_proc=args.num_proc)
         start = time.time()
@@ -145,6 +148,8 @@ def quantization_kwargs(args):
 def load_pandora(name, limit):
     from datasets import concatenate_datasets, load_dataset
     ds = load_dataset(name, token=os.environ.get("HF_TOKEN"))
+    # The adapters were trained on every published split as one corpus. Original
+    # train, validation, and test boundaries are intentionally not retained.
     merged = concatenate_datasets(list(ds.values()))
     if limit:
         merged = merged.select(range(min(limit, len(merged))))
@@ -169,6 +174,7 @@ def load_group(partition_path, group):
 
 
 def is_done(out_root, ptype):
+    # Resume uses the same immutable ptype-to-directory contract as training.
     return (out_root / f"ptype_{ptype}" / ADAPTER_WEIGHTS).exists()
 
 

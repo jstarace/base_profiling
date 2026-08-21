@@ -1,0 +1,2525 @@
+{
+  "schema_version": "1.0",
+  "records": [
+    {
+      "prompt_id": "ACT-IPIP-N1-01",
+      "group": "ipip_stems",
+      "category": "N1",
+      "text": "Worry about things.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N1-02",
+      "group": "ipip_stems",
+      "category": "N1",
+      "text": "Fear for the worst.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N1-03",
+      "group": "ipip_stems",
+      "category": "N1",
+      "text": "Am afraid of many things.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N1-04",
+      "group": "ipip_stems",
+      "category": "N1",
+      "text": "Get stressed out easily.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N2-01",
+      "group": "ipip_stems",
+      "category": "N2",
+      "text": "Get angry easily.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N2-02",
+      "group": "ipip_stems",
+      "category": "N2",
+      "text": "Get irritated easily.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N2-03",
+      "group": "ipip_stems",
+      "category": "N2",
+      "text": "Lose my temper.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N2-04",
+      "group": "ipip_stems",
+      "category": "N2",
+      "text": "Am not easily annoyed.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N3-01",
+      "group": "ipip_stems",
+      "category": "N3",
+      "text": "Often feel blue.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N3-02",
+      "group": "ipip_stems",
+      "category": "N3",
+      "text": "Dislike myself.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N3-03",
+      "group": "ipip_stems",
+      "category": "N3",
+      "text": "Am often down in the dumps.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N3-04",
+      "group": "ipip_stems",
+      "category": "N3",
+      "text": "Feel comfortable with myself.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N4-01",
+      "group": "ipip_stems",
+      "category": "N4",
+      "text": "Find it difficult to approach others.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N4-02",
+      "group": "ipip_stems",
+      "category": "N4",
+      "text": "Am afraid to draw attention to myself.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N4-03",
+      "group": "ipip_stems",
+      "category": "N4",
+      "text": "Only feel comfortable with friends.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N4-04",
+      "group": "ipip_stems",
+      "category": "N4",
+      "text": "Am not bothered by difficult social situations.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N5-01",
+      "group": "ipip_stems",
+      "category": "N5",
+      "text": "Go on binges.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N5-02",
+      "group": "ipip_stems",
+      "category": "N5",
+      "text": "Rarely overindulge.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N5-03",
+      "group": "ipip_stems",
+      "category": "N5",
+      "text": "Easily resist temptations.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N5-04",
+      "group": "ipip_stems",
+      "category": "N5",
+      "text": "Am able to control my cravings.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N6-01",
+      "group": "ipip_stems",
+      "category": "N6",
+      "text": "Panic easily.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N6-02",
+      "group": "ipip_stems",
+      "category": "N6",
+      "text": "Become overwhelmed by events.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N6-03",
+      "group": "ipip_stems",
+      "category": "N6",
+      "text": "Feel that I'm unable to deal with things.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-N6-04",
+      "group": "ipip_stems",
+      "category": "N6",
+      "text": "Remain calm under pressure.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E1-01",
+      "group": "ipip_stems",
+      "category": "E1",
+      "text": "Make friends easily.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E1-02",
+      "group": "ipip_stems",
+      "category": "E1",
+      "text": "Feel comfortable around people.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E1-03",
+      "group": "ipip_stems",
+      "category": "E1",
+      "text": "Avoid contacts with others.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E1-04",
+      "group": "ipip_stems",
+      "category": "E1",
+      "text": "Keep others at a distance.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E2-01",
+      "group": "ipip_stems",
+      "category": "E2",
+      "text": "Love large parties.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E2-02",
+      "group": "ipip_stems",
+      "category": "E2",
+      "text": "Talk to a lot of different people at parties.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E2-03",
+      "group": "ipip_stems",
+      "category": "E2",
+      "text": "Prefer to be alone.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E2-04",
+      "group": "ipip_stems",
+      "category": "E2",
+      "text": "Avoid crowds.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E3-01",
+      "group": "ipip_stems",
+      "category": "E3",
+      "text": "Take charge.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E3-02",
+      "group": "ipip_stems",
+      "category": "E3",
+      "text": "Try to lead others.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E3-03",
+      "group": "ipip_stems",
+      "category": "E3",
+      "text": "Take control of things.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E3-04",
+      "group": "ipip_stems",
+      "category": "E3",
+      "text": "Wait for others to lead the way.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E4-01",
+      "group": "ipip_stems",
+      "category": "E4",
+      "text": "Am always busy.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E4-02",
+      "group": "ipip_stems",
+      "category": "E4",
+      "text": "Am always on the go.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E4-03",
+      "group": "ipip_stems",
+      "category": "E4",
+      "text": "Do a lot in my spare time.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E4-04",
+      "group": "ipip_stems",
+      "category": "E4",
+      "text": "Like to take it easy.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E5-01",
+      "group": "ipip_stems",
+      "category": "E5",
+      "text": "Love excitement.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E5-02",
+      "group": "ipip_stems",
+      "category": "E5",
+      "text": "Seek adventure.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E5-03",
+      "group": "ipip_stems",
+      "category": "E5",
+      "text": "Enjoy being reckless.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E5-04",
+      "group": "ipip_stems",
+      "category": "E5",
+      "text": "Act wild and crazy.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E6-01",
+      "group": "ipip_stems",
+      "category": "E6",
+      "text": "Radiate joy.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E6-02",
+      "group": "ipip_stems",
+      "category": "E6",
+      "text": "Have a lot of fun.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E6-03",
+      "group": "ipip_stems",
+      "category": "E6",
+      "text": "Love life.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-E6-04",
+      "group": "ipip_stems",
+      "category": "E6",
+      "text": "Look at the bright side of life.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O1-01",
+      "group": "ipip_stems",
+      "category": "O1",
+      "text": "Have a vivid imagination.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O1-02",
+      "group": "ipip_stems",
+      "category": "O1",
+      "text": "Enjoy wild flights of fantasy.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O1-03",
+      "group": "ipip_stems",
+      "category": "O1",
+      "text": "Love to daydream.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O1-04",
+      "group": "ipip_stems",
+      "category": "O1",
+      "text": "Like to get lost in thought.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O2-01",
+      "group": "ipip_stems",
+      "category": "O2",
+      "text": "Believe in the importance of art.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O2-02",
+      "group": "ipip_stems",
+      "category": "O2",
+      "text": "See beauty in things that others might not notice.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O2-03",
+      "group": "ipip_stems",
+      "category": "O2",
+      "text": "Do not like poetry.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O2-04",
+      "group": "ipip_stems",
+      "category": "O2",
+      "text": "Do not enjoy going to art museums.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O3-01",
+      "group": "ipip_stems",
+      "category": "O3",
+      "text": "Experience my emotions intensely.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O3-02",
+      "group": "ipip_stems",
+      "category": "O3",
+      "text": "Feel others' emotions.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O3-03",
+      "group": "ipip_stems",
+      "category": "O3",
+      "text": "Rarely notice my emotional reactions.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O3-04",
+      "group": "ipip_stems",
+      "category": "O3",
+      "text": "Don't understand people who get emotional.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O4-01",
+      "group": "ipip_stems",
+      "category": "O4",
+      "text": "Prefer variety to routine.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O4-02",
+      "group": "ipip_stems",
+      "category": "O4",
+      "text": "Prefer to stick with things that I know.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O4-03",
+      "group": "ipip_stems",
+      "category": "O4",
+      "text": "Dislike changes.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O4-04",
+      "group": "ipip_stems",
+      "category": "O4",
+      "text": "Am attached to conventional ways.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O5-01",
+      "group": "ipip_stems",
+      "category": "O5",
+      "text": "Love to read challenging material.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O5-02",
+      "group": "ipip_stems",
+      "category": "O5",
+      "text": "Avoid philosophical discussions.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O5-03",
+      "group": "ipip_stems",
+      "category": "O5",
+      "text": "Have difficulty understanding abstract ideas.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O5-04",
+      "group": "ipip_stems",
+      "category": "O5",
+      "text": "Am not interested in theoretical discussions.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O6-01",
+      "group": "ipip_stems",
+      "category": "O6",
+      "text": "Tend to vote for liberal political candidates.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O6-02",
+      "group": "ipip_stems",
+      "category": "O6",
+      "text": "Believe that there is no absolute right and wrong.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O6-03",
+      "group": "ipip_stems",
+      "category": "O6",
+      "text": "Tend to vote for conservative political candidates.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-O6-04",
+      "group": "ipip_stems",
+      "category": "O6",
+      "text": "Believe that we should be tough on crime.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A1-01",
+      "group": "ipip_stems",
+      "category": "A1",
+      "text": "Trust others.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A1-02",
+      "group": "ipip_stems",
+      "category": "A1",
+      "text": "Believe that others have good intentions.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A1-03",
+      "group": "ipip_stems",
+      "category": "A1",
+      "text": "Trust what people say.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A1-04",
+      "group": "ipip_stems",
+      "category": "A1",
+      "text": "Distrust people.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A2-01",
+      "group": "ipip_stems",
+      "category": "A2",
+      "text": "Use others for my own ends.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A2-02",
+      "group": "ipip_stems",
+      "category": "A2",
+      "text": "Cheat to get ahead.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A2-03",
+      "group": "ipip_stems",
+      "category": "A2",
+      "text": "Take advantage of others.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A2-04",
+      "group": "ipip_stems",
+      "category": "A2",
+      "text": "Obstruct others' plans.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A3-01",
+      "group": "ipip_stems",
+      "category": "A3",
+      "text": "Am concerned about others.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A3-02",
+      "group": "ipip_stems",
+      "category": "A3",
+      "text": "Love to help others.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A3-03",
+      "group": "ipip_stems",
+      "category": "A3",
+      "text": "Am indifferent to the feelings of others.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A3-04",
+      "group": "ipip_stems",
+      "category": "A3",
+      "text": "Take no time for others.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A4-01",
+      "group": "ipip_stems",
+      "category": "A4",
+      "text": "Love a good fight.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A4-02",
+      "group": "ipip_stems",
+      "category": "A4",
+      "text": "Yell at people.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A4-03",
+      "group": "ipip_stems",
+      "category": "A4",
+      "text": "Insult people.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A4-04",
+      "group": "ipip_stems",
+      "category": "A4",
+      "text": "Get back at others.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A5-01",
+      "group": "ipip_stems",
+      "category": "A5",
+      "text": "Believe that I am better than others.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A5-02",
+      "group": "ipip_stems",
+      "category": "A5",
+      "text": "Think highly of myself.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A5-03",
+      "group": "ipip_stems",
+      "category": "A5",
+      "text": "Have a high opinion of myself.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A5-04",
+      "group": "ipip_stems",
+      "category": "A5",
+      "text": "Boast about my virtues.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A6-01",
+      "group": "ipip_stems",
+      "category": "A6",
+      "text": "Sympathize with the homeless.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A6-02",
+      "group": "ipip_stems",
+      "category": "A6",
+      "text": "Feel sympathy for those who are worse off than myself.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A6-03",
+      "group": "ipip_stems",
+      "category": "A6",
+      "text": "Am not interested in other people's problems.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-A6-04",
+      "group": "ipip_stems",
+      "category": "A6",
+      "text": "Try not to think about the needy.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C1-01",
+      "group": "ipip_stems",
+      "category": "C1",
+      "text": "Complete tasks successfully.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C1-02",
+      "group": "ipip_stems",
+      "category": "C1",
+      "text": "Excel in what I do.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C1-03",
+      "group": "ipip_stems",
+      "category": "C1",
+      "text": "Handle tasks smoothly.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C1-04",
+      "group": "ipip_stems",
+      "category": "C1",
+      "text": "Know how to get things done.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C2-01",
+      "group": "ipip_stems",
+      "category": "C2",
+      "text": "Like to tidy up.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C2-02",
+      "group": "ipip_stems",
+      "category": "C2",
+      "text": "Often forget to put things back in their proper place.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C2-03",
+      "group": "ipip_stems",
+      "category": "C2",
+      "text": "Leave a mess in my room.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C2-04",
+      "group": "ipip_stems",
+      "category": "C2",
+      "text": "Leave my belongings around.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C3-01",
+      "group": "ipip_stems",
+      "category": "C3",
+      "text": "Keep my promises.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C3-02",
+      "group": "ipip_stems",
+      "category": "C3",
+      "text": "Tell the truth.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C3-03",
+      "group": "ipip_stems",
+      "category": "C3",
+      "text": "Break rules.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C3-04",
+      "group": "ipip_stems",
+      "category": "C3",
+      "text": "Break my promises.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C4-01",
+      "group": "ipip_stems",
+      "category": "C4",
+      "text": "Do more than what's expected of me.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C4-02",
+      "group": "ipip_stems",
+      "category": "C4",
+      "text": "Work hard.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C4-03",
+      "group": "ipip_stems",
+      "category": "C4",
+      "text": "Put little time and effort into my work.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C4-04",
+      "group": "ipip_stems",
+      "category": "C4",
+      "text": "Do just enough work to get by.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C5-01",
+      "group": "ipip_stems",
+      "category": "C5",
+      "text": "Am always prepared.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C5-02",
+      "group": "ipip_stems",
+      "category": "C5",
+      "text": "Carry out my plans.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C5-03",
+      "group": "ipip_stems",
+      "category": "C5",
+      "text": "Waste my time.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C5-04",
+      "group": "ipip_stems",
+      "category": "C5",
+      "text": "Have difficulty starting tasks.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C6-01",
+      "group": "ipip_stems",
+      "category": "C6",
+      "text": "Jump into things without thinking.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C6-02",
+      "group": "ipip_stems",
+      "category": "C6",
+      "text": "Make rash decisions.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C6-03",
+      "group": "ipip_stems",
+      "category": "C6",
+      "text": "Rush into things.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-IPIP-C6-04",
+      "group": "ipip_stems",
+      "category": "C6",
+      "text": "Act without thinking.",
+      "construction_or_source_note": "Exact frozen Johnson 2014 IPIP-NEO-120 item statement."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-001",
+      "group": "neutral_controls",
+      "category": "measurement",
+      "text": "Measured object: a copper wire.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-002",
+      "group": "neutral_controls",
+      "category": "diagram",
+      "text": "Diagram label: a copper wire.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-003",
+      "group": "neutral_controls",
+      "category": "inventory",
+      "text": "Stored item: a copper wire.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-004",
+      "group": "neutral_controls",
+      "category": "surface",
+      "text": "Surface sample: a copper wire.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-005",
+      "group": "neutral_controls",
+      "category": "mass",
+      "text": "Mass reference: a copper wire.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-006",
+      "group": "neutral_controls",
+      "category": "temperature",
+      "text": "Temperature record: a copper wire.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-007",
+      "group": "neutral_controls",
+      "category": "photograph",
+      "text": "Reference photograph: a copper wire.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-008",
+      "group": "neutral_controls",
+      "category": "measurement",
+      "text": "Measured object: a glass prism.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-009",
+      "group": "neutral_controls",
+      "category": "diagram",
+      "text": "Diagram label: a glass prism.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-010",
+      "group": "neutral_controls",
+      "category": "inventory",
+      "text": "Stored item: a glass prism.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-011",
+      "group": "neutral_controls",
+      "category": "surface",
+      "text": "Surface sample: a glass prism.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-012",
+      "group": "neutral_controls",
+      "category": "mass",
+      "text": "Mass reference: a glass prism.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-013",
+      "group": "neutral_controls",
+      "category": "temperature",
+      "text": "Temperature record: a glass prism.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-014",
+      "group": "neutral_controls",
+      "category": "measurement",
+      "text": "Measured object: a basalt sample.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-015",
+      "group": "neutral_controls",
+      "category": "photograph",
+      "text": "Reference photograph: a glass prism.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-016",
+      "group": "neutral_controls",
+      "category": "diagram",
+      "text": "Diagram label: a basalt sample.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-017",
+      "group": "neutral_controls",
+      "category": "measurement",
+      "text": "Measured object: a cedar board.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-018",
+      "group": "neutral_controls",
+      "category": "diagram",
+      "text": "Diagram label: a cedar board.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-019",
+      "group": "neutral_controls",
+      "category": "inventory",
+      "text": "Stored item: a cedar board.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-020",
+      "group": "neutral_controls",
+      "category": "surface",
+      "text": "Surface sample: a cedar board.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-021",
+      "group": "neutral_controls",
+      "category": "mass",
+      "text": "Mass reference: a cedar board.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-022",
+      "group": "neutral_controls",
+      "category": "temperature",
+      "text": "Temperature record: a cedar board.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-023",
+      "group": "neutral_controls",
+      "category": "inspection",
+      "text": "Serial-numbered item: a basalt sample.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-024",
+      "group": "neutral_controls",
+      "category": "photograph",
+      "text": "Reference photograph: a cedar board.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-025",
+      "group": "neutral_controls",
+      "category": "measurement",
+      "text": "Measured object: a quartz crystal.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-026",
+      "group": "neutral_controls",
+      "category": "diagram",
+      "text": "Diagram label: a quartz crystal.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-027",
+      "group": "neutral_controls",
+      "category": "inventory",
+      "text": "Stored item: a quartz crystal.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-028",
+      "group": "neutral_controls",
+      "category": "surface",
+      "text": "Surface sample: a quartz crystal.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-029",
+      "group": "neutral_controls",
+      "category": "mass",
+      "text": "Mass reference: a quartz crystal.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-030",
+      "group": "neutral_controls",
+      "category": "catalog",
+      "text": "Cataloged material: a basalt sample.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-031",
+      "group": "neutral_controls",
+      "category": "temperature",
+      "text": "Temperature record: a quartz crystal.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-032",
+      "group": "neutral_controls",
+      "category": "photograph",
+      "text": "Reference photograph: a quartz crystal.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-033",
+      "group": "neutral_controls",
+      "category": "measurement",
+      "text": "Measured object: a paper sheet.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-034",
+      "group": "neutral_controls",
+      "category": "diagram",
+      "text": "Diagram label: a paper sheet.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-035",
+      "group": "neutral_controls",
+      "category": "inventory",
+      "text": "Stored item: a paper sheet.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-036",
+      "group": "neutral_controls",
+      "category": "inventory",
+      "text": "Stored item: a basalt sample.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-037",
+      "group": "neutral_controls",
+      "category": "surface",
+      "text": "Surface sample: a paper sheet.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-038",
+      "group": "neutral_controls",
+      "category": "mass",
+      "text": "Mass reference: a paper sheet.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-039",
+      "group": "neutral_controls",
+      "category": "surface",
+      "text": "Surface sample: a basalt sample.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-040",
+      "group": "neutral_controls",
+      "category": "temperature",
+      "text": "Temperature record: a paper sheet.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-041",
+      "group": "neutral_controls",
+      "category": "photograph",
+      "text": "Reference photograph: a paper sheet.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-042",
+      "group": "neutral_controls",
+      "category": "measurement",
+      "text": "Measured object: a steel beam.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-043",
+      "group": "neutral_controls",
+      "category": "diagram",
+      "text": "Diagram label: a steel beam.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-044",
+      "group": "neutral_controls",
+      "category": "inventory",
+      "text": "Stored item: a steel beam.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-045",
+      "group": "neutral_controls",
+      "category": "surface",
+      "text": "Surface sample: a steel beam.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-046",
+      "group": "neutral_controls",
+      "category": "mass",
+      "text": "Mass reference: a steel beam.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-047",
+      "group": "neutral_controls",
+      "category": "temperature",
+      "text": "Temperature record: a steel beam.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-048",
+      "group": "neutral_controls",
+      "category": "mass",
+      "text": "Mass reference: a basalt sample.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-049",
+      "group": "neutral_controls",
+      "category": "photograph",
+      "text": "Reference photograph: a steel beam.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-050",
+      "group": "neutral_controls",
+      "category": "measurement",
+      "text": "Measured object: a ceramic tile.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-051",
+      "group": "neutral_controls",
+      "category": "diagram",
+      "text": "Diagram label: a ceramic tile.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-052",
+      "group": "neutral_controls",
+      "category": "inventory",
+      "text": "Stored item: a ceramic tile.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-053",
+      "group": "neutral_controls",
+      "category": "temperature",
+      "text": "Temperature record: a basalt sample.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-054",
+      "group": "neutral_controls",
+      "category": "position",
+      "text": "North-wall item: a basalt sample.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-055",
+      "group": "neutral_controls",
+      "category": "surface",
+      "text": "Surface sample: a ceramic tile.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-056",
+      "group": "neutral_controls",
+      "category": "photograph",
+      "text": "Reference photograph: a basalt sample.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-057",
+      "group": "neutral_controls",
+      "category": "mass",
+      "text": "Mass reference: a ceramic tile.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-058",
+      "group": "neutral_controls",
+      "category": "temperature",
+      "text": "Temperature record: a ceramic tile.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-059",
+      "group": "neutral_controls",
+      "category": "photograph",
+      "text": "Reference photograph: a ceramic tile.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-060",
+      "group": "neutral_controls",
+      "category": "catalog",
+      "text": "Cataloged material: a copper wire.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-061",
+      "group": "neutral_controls",
+      "category": "measurement",
+      "text": "Measured object: a river stone.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-062",
+      "group": "neutral_controls",
+      "category": "inspection",
+      "text": "Serial-numbered item: a copper wire.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-063",
+      "group": "neutral_controls",
+      "category": "diagram",
+      "text": "Diagram label: a river stone.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-064",
+      "group": "neutral_controls",
+      "category": "inventory",
+      "text": "Stored item: a river stone.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-065",
+      "group": "neutral_controls",
+      "category": "surface",
+      "text": "Surface sample: a river stone.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-066",
+      "group": "neutral_controls",
+      "category": "mass",
+      "text": "Mass reference: a river stone.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-067",
+      "group": "neutral_controls",
+      "category": "temperature",
+      "text": "Temperature record: a river stone.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-068",
+      "group": "neutral_controls",
+      "category": "photograph",
+      "text": "Reference photograph: a river stone.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-069",
+      "group": "neutral_controls",
+      "category": "inspection",
+      "text": "Serial-numbered item: a glass prism.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-070",
+      "group": "neutral_controls",
+      "category": "inspection",
+      "text": "Serial-numbered item: a cedar board.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-071",
+      "group": "neutral_controls",
+      "category": "inspection",
+      "text": "Serial-numbered item: a quartz crystal.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-072",
+      "group": "neutral_controls",
+      "category": "inspection",
+      "text": "Serial-numbered item: a paper sheet.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-073",
+      "group": "neutral_controls",
+      "category": "measurement",
+      "text": "Measured object: a solar panel.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-074",
+      "group": "neutral_controls",
+      "category": "position",
+      "text": "North-wall item: a copper wire.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-075",
+      "group": "neutral_controls",
+      "category": "diagram",
+      "text": "Diagram label: a solar panel.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-076",
+      "group": "neutral_controls",
+      "category": "inventory",
+      "text": "Stored item: a solar panel.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-077",
+      "group": "neutral_controls",
+      "category": "surface",
+      "text": "Surface sample: a solar panel.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-078",
+      "group": "neutral_controls",
+      "category": "mass",
+      "text": "Mass reference: a solar panel.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-079",
+      "group": "neutral_controls",
+      "category": "temperature",
+      "text": "Temperature record: a solar panel.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-080",
+      "group": "neutral_controls",
+      "category": "photograph",
+      "text": "Reference photograph: a solar panel.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-081",
+      "group": "neutral_controls",
+      "category": "measurement",
+      "text": "Measured object: a cotton thread.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-082",
+      "group": "neutral_controls",
+      "category": "diagram",
+      "text": "Diagram label: a cotton thread.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-083",
+      "group": "neutral_controls",
+      "category": "catalog",
+      "text": "Cataloged material: a glass prism.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-084",
+      "group": "neutral_controls",
+      "category": "inventory",
+      "text": "Stored item: a cotton thread.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-085",
+      "group": "neutral_controls",
+      "category": "surface",
+      "text": "Surface sample: a cotton thread.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-086",
+      "group": "neutral_controls",
+      "category": "mass",
+      "text": "Mass reference: a cotton thread.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-087",
+      "group": "neutral_controls",
+      "category": "temperature",
+      "text": "Temperature record: a cotton thread.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-088",
+      "group": "neutral_controls",
+      "category": "photograph",
+      "text": "Reference photograph: a cotton thread.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-089",
+      "group": "neutral_controls",
+      "category": "inspection",
+      "text": "Serial-numbered item: a steel beam.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-090",
+      "group": "neutral_controls",
+      "category": "measurement",
+      "text": "Measured object: an aluminum plate.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-091",
+      "group": "neutral_controls",
+      "category": "diagram",
+      "text": "Diagram label: an aluminum plate.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-092",
+      "group": "neutral_controls",
+      "category": "inventory",
+      "text": "Stored item: an aluminum plate.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-093",
+      "group": "neutral_controls",
+      "category": "position",
+      "text": "North-wall item: a glass prism.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-094",
+      "group": "neutral_controls",
+      "category": "inspection",
+      "text": "Serial-numbered item: a ceramic tile.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-095",
+      "group": "neutral_controls",
+      "category": "inspection",
+      "text": "Serial-numbered item: a river stone.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-096",
+      "group": "neutral_controls",
+      "category": "catalog",
+      "text": "Cataloged material: a cedar board.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-097",
+      "group": "neutral_controls",
+      "category": "surface",
+      "text": "Surface sample: an aluminum plate.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-098",
+      "group": "neutral_controls",
+      "category": "mass",
+      "text": "Mass reference: an aluminum plate.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-099",
+      "group": "neutral_controls",
+      "category": "temperature",
+      "text": "Temperature record: an aluminum plate.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-100",
+      "group": "neutral_controls",
+      "category": "photograph",
+      "text": "Reference photograph: an aluminum plate.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-101",
+      "group": "neutral_controls",
+      "category": "position",
+      "text": "North-wall item: a cedar board.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-102",
+      "group": "neutral_controls",
+      "category": "inspection",
+      "text": "Serial-numbered item: a solar panel.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-103",
+      "group": "neutral_controls",
+      "category": "catalog",
+      "text": "Cataloged material: a quartz crystal.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-104",
+      "group": "neutral_controls",
+      "category": "position",
+      "text": "North-wall item: a quartz crystal.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-105",
+      "group": "neutral_controls",
+      "category": "catalog",
+      "text": "Cataloged material: a paper sheet.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-106",
+      "group": "neutral_controls",
+      "category": "position",
+      "text": "North-wall item: a paper sheet.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-107",
+      "group": "neutral_controls",
+      "category": "catalog",
+      "text": "Cataloged material: a steel beam.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-108",
+      "group": "neutral_controls",
+      "category": "position",
+      "text": "North-wall item: a steel beam.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-109",
+      "group": "neutral_controls",
+      "category": "inspection",
+      "text": "Serial-numbered item: a cotton thread.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-110",
+      "group": "neutral_controls",
+      "category": "catalog",
+      "text": "Cataloged material: a ceramic tile.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-111",
+      "group": "neutral_controls",
+      "category": "inspection",
+      "text": "Serial-numbered item: an aluminum plate.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-112",
+      "group": "neutral_controls",
+      "category": "position",
+      "text": "North-wall item: a ceramic tile.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-113",
+      "group": "neutral_controls",
+      "category": "catalog",
+      "text": "Cataloged material: a river stone.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-114",
+      "group": "neutral_controls",
+      "category": "position",
+      "text": "North-wall item: a river stone.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-115",
+      "group": "neutral_controls",
+      "category": "catalog",
+      "text": "Cataloged material: a solar panel.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-116",
+      "group": "neutral_controls",
+      "category": "position",
+      "text": "North-wall item: a solar panel.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-117",
+      "group": "neutral_controls",
+      "category": "catalog",
+      "text": "Cataloged material: a cotton thread.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-118",
+      "group": "neutral_controls",
+      "category": "position",
+      "text": "North-wall item: a cotton thread.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-119",
+      "group": "neutral_controls",
+      "category": "catalog",
+      "text": "Cataloged material: an aluminum plate.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NEUTRAL-120",
+      "group": "neutral_controls",
+      "category": "position",
+      "text": "North-wall item: an aluminum plate.",
+      "construction_or_source_note": "Deterministic factual/descriptive control; greedily token-length matched to the correspondingly indexed IPIP stem."
+    },
+    {
+      "prompt_id": "ACT-NAT-PLANNING-01",
+      "group": "naturalistic_behavioral",
+      "category": "planning",
+      "text": "a research note has several dependent steps. Give a short sequence for starting the work.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-PLANNING-02",
+      "group": "naturalistic_behavioral",
+      "category": "planning",
+      "text": "a neighborhood event has several dependent steps. Give a short sequence for starting the work.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-PLANNING-03",
+      "group": "naturalistic_behavioral",
+      "category": "planning",
+      "text": "a repair task has several dependent steps. Give a short sequence for starting the work.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-PLANNING-04",
+      "group": "naturalistic_behavioral",
+      "category": "planning",
+      "text": "a travel delay has several dependent steps. Give a short sequence for starting the work.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-PLANNING-05",
+      "group": "naturalistic_behavioral",
+      "category": "planning",
+      "text": "a shared workspace has several dependent steps. Give a short sequence for starting the work.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-PLANNING-06",
+      "group": "naturalistic_behavioral",
+      "category": "planning",
+      "text": "a software release has several dependent steps. Give a short sequence for starting the work.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-PLANNING-07",
+      "group": "naturalistic_behavioral",
+      "category": "planning",
+      "text": "a community garden has several dependent steps. Give a short sequence for starting the work.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-PLANNING-08",
+      "group": "naturalistic_behavioral",
+      "category": "planning",
+      "text": "a class project has several dependent steps. Give a short sequence for starting the work.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-PLANNING-09",
+      "group": "naturalistic_behavioral",
+      "category": "planning",
+      "text": "a delivery schedule has several dependent steps. Give a short sequence for starting the work.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-PLANNING-10",
+      "group": "naturalistic_behavioral",
+      "category": "planning",
+      "text": "a household chore has several dependent steps. Give a short sequence for starting the work.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-PLANNING-11",
+      "group": "naturalistic_behavioral",
+      "category": "planning",
+      "text": "a meeting agenda has several dependent steps. Give a short sequence for starting the work.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-PLANNING-12",
+      "group": "naturalistic_behavioral",
+      "category": "planning",
+      "text": "a weekend activity has several dependent steps. Give a short sequence for starting the work.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-NOVELTY-01",
+      "group": "naturalistic_behavioral",
+      "category": "novelty",
+      "text": "An unfamiliar method appears during a research note. Write a brief response about what to do next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-NOVELTY-02",
+      "group": "naturalistic_behavioral",
+      "category": "novelty",
+      "text": "An unfamiliar method appears during a neighborhood event. Write a brief response about what to do next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-NOVELTY-03",
+      "group": "naturalistic_behavioral",
+      "category": "novelty",
+      "text": "An unfamiliar method appears during a repair task. Write a brief response about what to do next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-NOVELTY-04",
+      "group": "naturalistic_behavioral",
+      "category": "novelty",
+      "text": "An unfamiliar method appears during a travel delay. Write a brief response about what to do next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-NOVELTY-05",
+      "group": "naturalistic_behavioral",
+      "category": "novelty",
+      "text": "An unfamiliar method appears during a shared workspace. Write a brief response about what to do next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-NOVELTY-06",
+      "group": "naturalistic_behavioral",
+      "category": "novelty",
+      "text": "An unfamiliar method appears during a software release. Write a brief response about what to do next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-NOVELTY-07",
+      "group": "naturalistic_behavioral",
+      "category": "novelty",
+      "text": "An unfamiliar method appears during a community garden. Write a brief response about what to do next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-NOVELTY-08",
+      "group": "naturalistic_behavioral",
+      "category": "novelty",
+      "text": "An unfamiliar method appears during a class project. Write a brief response about what to do next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-NOVELTY-09",
+      "group": "naturalistic_behavioral",
+      "category": "novelty",
+      "text": "An unfamiliar method appears during a delivery schedule. Write a brief response about what to do next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-NOVELTY-10",
+      "group": "naturalistic_behavioral",
+      "category": "novelty",
+      "text": "An unfamiliar method appears during a household chore. Write a brief response about what to do next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-NOVELTY-11",
+      "group": "naturalistic_behavioral",
+      "category": "novelty",
+      "text": "An unfamiliar method appears during a meeting agenda. Write a brief response about what to do next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-NOVELTY-12",
+      "group": "naturalistic_behavioral",
+      "category": "novelty",
+      "text": "An unfamiliar method appears during a weekend activity. Write a brief response about what to do next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-ROUTINE-01",
+      "group": "naturalistic_behavioral",
+      "category": "routine",
+      "text": "A familiar procedure is used for a research note. Continue with a concise description of the next action.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-ROUTINE-02",
+      "group": "naturalistic_behavioral",
+      "category": "routine",
+      "text": "A familiar procedure is used for a neighborhood event. Continue with a concise description of the next action.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-ROUTINE-03",
+      "group": "naturalistic_behavioral",
+      "category": "routine",
+      "text": "A familiar procedure is used for a repair task. Continue with a concise description of the next action.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-ROUTINE-04",
+      "group": "naturalistic_behavioral",
+      "category": "routine",
+      "text": "A familiar procedure is used for a travel delay. Continue with a concise description of the next action.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-ROUTINE-05",
+      "group": "naturalistic_behavioral",
+      "category": "routine",
+      "text": "A familiar procedure is used for a shared workspace. Continue with a concise description of the next action.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-ROUTINE-06",
+      "group": "naturalistic_behavioral",
+      "category": "routine",
+      "text": "A familiar procedure is used for a software release. Continue with a concise description of the next action.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-ROUTINE-07",
+      "group": "naturalistic_behavioral",
+      "category": "routine",
+      "text": "A familiar procedure is used for a community garden. Continue with a concise description of the next action.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-ROUTINE-08",
+      "group": "naturalistic_behavioral",
+      "category": "routine",
+      "text": "A familiar procedure is used for a class project. Continue with a concise description of the next action.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-ROUTINE-09",
+      "group": "naturalistic_behavioral",
+      "category": "routine",
+      "text": "A familiar procedure is used for a delivery schedule. Continue with a concise description of the next action.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-ROUTINE-10",
+      "group": "naturalistic_behavioral",
+      "category": "routine",
+      "text": "A familiar procedure is used for a household chore. Continue with a concise description of the next action.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-ROUTINE-11",
+      "group": "naturalistic_behavioral",
+      "category": "routine",
+      "text": "A familiar procedure is used for a meeting agenda. Continue with a concise description of the next action.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-ROUTINE-12",
+      "group": "naturalistic_behavioral",
+      "category": "routine",
+      "text": "A familiar procedure is used for a weekend activity. Continue with a concise description of the next action.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-UNCERTAINTY-01",
+      "group": "naturalistic_behavioral",
+      "category": "uncertainty",
+      "text": "Key information is missing from a research note. Give a short response describing the immediate next step.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-UNCERTAINTY-02",
+      "group": "naturalistic_behavioral",
+      "category": "uncertainty",
+      "text": "Key information is missing from a neighborhood event. Give a short response describing the immediate next step.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-UNCERTAINTY-03",
+      "group": "naturalistic_behavioral",
+      "category": "uncertainty",
+      "text": "Key information is missing from a repair task. Give a short response describing the immediate next step.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-UNCERTAINTY-04",
+      "group": "naturalistic_behavioral",
+      "category": "uncertainty",
+      "text": "Key information is missing from a travel delay. Give a short response describing the immediate next step.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-UNCERTAINTY-05",
+      "group": "naturalistic_behavioral",
+      "category": "uncertainty",
+      "text": "Key information is missing from a shared workspace. Give a short response describing the immediate next step.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-UNCERTAINTY-06",
+      "group": "naturalistic_behavioral",
+      "category": "uncertainty",
+      "text": "Key information is missing from a software release. Give a short response describing the immediate next step.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-UNCERTAINTY-07",
+      "group": "naturalistic_behavioral",
+      "category": "uncertainty",
+      "text": "Key information is missing from a community garden. Give a short response describing the immediate next step.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-UNCERTAINTY-08",
+      "group": "naturalistic_behavioral",
+      "category": "uncertainty",
+      "text": "Key information is missing from a class project. Give a short response describing the immediate next step.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-UNCERTAINTY-09",
+      "group": "naturalistic_behavioral",
+      "category": "uncertainty",
+      "text": "Key information is missing from a delivery schedule. Give a short response describing the immediate next step.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-UNCERTAINTY-10",
+      "group": "naturalistic_behavioral",
+      "category": "uncertainty",
+      "text": "Key information is missing from a household chore. Give a short response describing the immediate next step.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-UNCERTAINTY-11",
+      "group": "naturalistic_behavioral",
+      "category": "uncertainty",
+      "text": "Key information is missing from a meeting agenda. Give a short response describing the immediate next step.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-UNCERTAINTY-12",
+      "group": "naturalistic_behavioral",
+      "category": "uncertainty",
+      "text": "Key information is missing from a weekend activity. Give a short response describing the immediate next step.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-SOCIAL_INTERACTION-01",
+      "group": "naturalistic_behavioral",
+      "category": "social_interaction",
+      "text": "Another participant asks for an update about a research note. Write a brief reply.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-SOCIAL_INTERACTION-02",
+      "group": "naturalistic_behavioral",
+      "category": "social_interaction",
+      "text": "Another participant asks for an update about a neighborhood event. Write a brief reply.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-SOCIAL_INTERACTION-03",
+      "group": "naturalistic_behavioral",
+      "category": "social_interaction",
+      "text": "Another participant asks for an update about a repair task. Write a brief reply.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-SOCIAL_INTERACTION-04",
+      "group": "naturalistic_behavioral",
+      "category": "social_interaction",
+      "text": "Another participant asks for an update about a travel delay. Write a brief reply.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-SOCIAL_INTERACTION-05",
+      "group": "naturalistic_behavioral",
+      "category": "social_interaction",
+      "text": "Another participant asks for an update about a shared workspace. Write a brief reply.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-SOCIAL_INTERACTION-06",
+      "group": "naturalistic_behavioral",
+      "category": "social_interaction",
+      "text": "Another participant asks for an update about a software release. Write a brief reply.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-SOCIAL_INTERACTION-07",
+      "group": "naturalistic_behavioral",
+      "category": "social_interaction",
+      "text": "Another participant asks for an update about a community garden. Write a brief reply.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-SOCIAL_INTERACTION-08",
+      "group": "naturalistic_behavioral",
+      "category": "social_interaction",
+      "text": "Another participant asks for an update about a class project. Write a brief reply.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-SOCIAL_INTERACTION-09",
+      "group": "naturalistic_behavioral",
+      "category": "social_interaction",
+      "text": "Another participant asks for an update about a delivery schedule. Write a brief reply.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-SOCIAL_INTERACTION-10",
+      "group": "naturalistic_behavioral",
+      "category": "social_interaction",
+      "text": "Another participant asks for an update about a household chore. Write a brief reply.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-SOCIAL_INTERACTION-11",
+      "group": "naturalistic_behavioral",
+      "category": "social_interaction",
+      "text": "Another participant asks for an update about a meeting agenda. Write a brief reply.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-SOCIAL_INTERACTION-12",
+      "group": "naturalistic_behavioral",
+      "category": "social_interaction",
+      "text": "Another participant asks for an update about a weekend activity. Write a brief reply.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-COOPERATION-01",
+      "group": "naturalistic_behavioral",
+      "category": "cooperation",
+      "text": "Two people need to divide the remaining work in a research note. Suggest a concise way to proceed.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-COOPERATION-02",
+      "group": "naturalistic_behavioral",
+      "category": "cooperation",
+      "text": "Two people need to divide the remaining work in a neighborhood event. Suggest a concise way to proceed.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-COOPERATION-03",
+      "group": "naturalistic_behavioral",
+      "category": "cooperation",
+      "text": "Two people need to divide the remaining work in a repair task. Suggest a concise way to proceed.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-COOPERATION-04",
+      "group": "naturalistic_behavioral",
+      "category": "cooperation",
+      "text": "Two people need to divide the remaining work in a travel delay. Suggest a concise way to proceed.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-COOPERATION-05",
+      "group": "naturalistic_behavioral",
+      "category": "cooperation",
+      "text": "Two people need to divide the remaining work in a shared workspace. Suggest a concise way to proceed.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-COOPERATION-06",
+      "group": "naturalistic_behavioral",
+      "category": "cooperation",
+      "text": "Two people need to divide the remaining work in a software release. Suggest a concise way to proceed.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-COOPERATION-07",
+      "group": "naturalistic_behavioral",
+      "category": "cooperation",
+      "text": "Two people need to divide the remaining work in a community garden. Suggest a concise way to proceed.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-COOPERATION-08",
+      "group": "naturalistic_behavioral",
+      "category": "cooperation",
+      "text": "Two people need to divide the remaining work in a class project. Suggest a concise way to proceed.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-COOPERATION-09",
+      "group": "naturalistic_behavioral",
+      "category": "cooperation",
+      "text": "Two people need to divide the remaining work in a delivery schedule. Suggest a concise way to proceed.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-COOPERATION-10",
+      "group": "naturalistic_behavioral",
+      "category": "cooperation",
+      "text": "Two people need to divide the remaining work in a household chore. Suggest a concise way to proceed.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-COOPERATION-11",
+      "group": "naturalistic_behavioral",
+      "category": "cooperation",
+      "text": "Two people need to divide the remaining work in a meeting agenda. Suggest a concise way to proceed.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-COOPERATION-12",
+      "group": "naturalistic_behavioral",
+      "category": "cooperation",
+      "text": "Two people need to divide the remaining work in a weekend activity. Suggest a concise way to proceed.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DISAGREEMENT-01",
+      "group": "naturalistic_behavioral",
+      "category": "disagreement",
+      "text": "Two proposed approaches to a research note differ. Write a short response that moves the discussion forward.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DISAGREEMENT-02",
+      "group": "naturalistic_behavioral",
+      "category": "disagreement",
+      "text": "Two proposed approaches to a neighborhood event differ. Write a short response that moves the discussion forward.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DISAGREEMENT-03",
+      "group": "naturalistic_behavioral",
+      "category": "disagreement",
+      "text": "Two proposed approaches to a repair task differ. Write a short response that moves the discussion forward.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DISAGREEMENT-04",
+      "group": "naturalistic_behavioral",
+      "category": "disagreement",
+      "text": "Two proposed approaches to a travel delay differ. Write a short response that moves the discussion forward.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DISAGREEMENT-05",
+      "group": "naturalistic_behavioral",
+      "category": "disagreement",
+      "text": "Two proposed approaches to a shared workspace differ. Write a short response that moves the discussion forward.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DISAGREEMENT-06",
+      "group": "naturalistic_behavioral",
+      "category": "disagreement",
+      "text": "Two proposed approaches to a software release differ. Write a short response that moves the discussion forward.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DISAGREEMENT-07",
+      "group": "naturalistic_behavioral",
+      "category": "disagreement",
+      "text": "Two proposed approaches to a community garden differ. Write a short response that moves the discussion forward.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DISAGREEMENT-08",
+      "group": "naturalistic_behavioral",
+      "category": "disagreement",
+      "text": "Two proposed approaches to a class project differ. Write a short response that moves the discussion forward.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DISAGREEMENT-09",
+      "group": "naturalistic_behavioral",
+      "category": "disagreement",
+      "text": "Two proposed approaches to a delivery schedule differ. Write a short response that moves the discussion forward.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DISAGREEMENT-10",
+      "group": "naturalistic_behavioral",
+      "category": "disagreement",
+      "text": "Two proposed approaches to a household chore differ. Write a short response that moves the discussion forward.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DISAGREEMENT-11",
+      "group": "naturalistic_behavioral",
+      "category": "disagreement",
+      "text": "Two proposed approaches to a meeting agenda differ. Write a short response that moves the discussion forward.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DISAGREEMENT-12",
+      "group": "naturalistic_behavioral",
+      "category": "disagreement",
+      "text": "Two proposed approaches to a weekend activity differ. Write a short response that moves the discussion forward.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-CONFLICT-01",
+      "group": "naturalistic_behavioral",
+      "category": "conflict",
+      "text": "A tense exchange interrupts a research note. Give a brief response addressing the immediate situation.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-CONFLICT-02",
+      "group": "naturalistic_behavioral",
+      "category": "conflict",
+      "text": "A tense exchange interrupts a neighborhood event. Give a brief response addressing the immediate situation.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-CONFLICT-03",
+      "group": "naturalistic_behavioral",
+      "category": "conflict",
+      "text": "A tense exchange interrupts a repair task. Give a brief response addressing the immediate situation.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-CONFLICT-04",
+      "group": "naturalistic_behavioral",
+      "category": "conflict",
+      "text": "A tense exchange interrupts a travel delay. Give a brief response addressing the immediate situation.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-CONFLICT-05",
+      "group": "naturalistic_behavioral",
+      "category": "conflict",
+      "text": "A tense exchange interrupts a shared workspace. Give a brief response addressing the immediate situation.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-CONFLICT-06",
+      "group": "naturalistic_behavioral",
+      "category": "conflict",
+      "text": "A tense exchange interrupts a software release. Give a brief response addressing the immediate situation.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-CONFLICT-07",
+      "group": "naturalistic_behavioral",
+      "category": "conflict",
+      "text": "A tense exchange interrupts a community garden. Give a brief response addressing the immediate situation.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-CONFLICT-08",
+      "group": "naturalistic_behavioral",
+      "category": "conflict",
+      "text": "A tense exchange interrupts a class project. Give a brief response addressing the immediate situation.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-CONFLICT-09",
+      "group": "naturalistic_behavioral",
+      "category": "conflict",
+      "text": "A tense exchange interrupts a delivery schedule. Give a brief response addressing the immediate situation.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-CONFLICT-10",
+      "group": "naturalistic_behavioral",
+      "category": "conflict",
+      "text": "A tense exchange interrupts a household chore. Give a brief response addressing the immediate situation.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-CONFLICT-11",
+      "group": "naturalistic_behavioral",
+      "category": "conflict",
+      "text": "A tense exchange interrupts a meeting agenda. Give a brief response addressing the immediate situation.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-CONFLICT-12",
+      "group": "naturalistic_behavioral",
+      "category": "conflict",
+      "text": "A tense exchange interrupts a weekend activity. Give a brief response addressing the immediate situation.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DEADLINES-01",
+      "group": "naturalistic_behavioral",
+      "category": "deadlines",
+      "text": "The due time for a research note moves earlier. State briefly what should happen next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DEADLINES-02",
+      "group": "naturalistic_behavioral",
+      "category": "deadlines",
+      "text": "The due time for a neighborhood event moves earlier. State briefly what should happen next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DEADLINES-03",
+      "group": "naturalistic_behavioral",
+      "category": "deadlines",
+      "text": "The due time for a repair task moves earlier. State briefly what should happen next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DEADLINES-04",
+      "group": "naturalistic_behavioral",
+      "category": "deadlines",
+      "text": "The due time for a travel delay moves earlier. State briefly what should happen next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DEADLINES-05",
+      "group": "naturalistic_behavioral",
+      "category": "deadlines",
+      "text": "The due time for a shared workspace moves earlier. State briefly what should happen next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DEADLINES-06",
+      "group": "naturalistic_behavioral",
+      "category": "deadlines",
+      "text": "The due time for a software release moves earlier. State briefly what should happen next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DEADLINES-07",
+      "group": "naturalistic_behavioral",
+      "category": "deadlines",
+      "text": "The due time for a community garden moves earlier. State briefly what should happen next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DEADLINES-08",
+      "group": "naturalistic_behavioral",
+      "category": "deadlines",
+      "text": "The due time for a class project moves earlier. State briefly what should happen next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DEADLINES-09",
+      "group": "naturalistic_behavioral",
+      "category": "deadlines",
+      "text": "The due time for a delivery schedule moves earlier. State briefly what should happen next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DEADLINES-10",
+      "group": "naturalistic_behavioral",
+      "category": "deadlines",
+      "text": "The due time for a household chore moves earlier. State briefly what should happen next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DEADLINES-11",
+      "group": "naturalistic_behavioral",
+      "category": "deadlines",
+      "text": "The due time for a meeting agenda moves earlier. State briefly what should happen next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-DEADLINES-12",
+      "group": "naturalistic_behavioral",
+      "category": "deadlines",
+      "text": "The due time for a weekend activity moves earlier. State briefly what should happen next.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-EMOTIONAL_REACTIONS-01",
+      "group": "naturalistic_behavioral",
+      "category": "emotional_reactions",
+      "text": "An unexpected setback occurs during a research note. Write a short immediate response.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-EMOTIONAL_REACTIONS-02",
+      "group": "naturalistic_behavioral",
+      "category": "emotional_reactions",
+      "text": "An unexpected setback occurs during a neighborhood event. Write a short immediate response.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-EMOTIONAL_REACTIONS-03",
+      "group": "naturalistic_behavioral",
+      "category": "emotional_reactions",
+      "text": "An unexpected setback occurs during a repair task. Write a short immediate response.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-EMOTIONAL_REACTIONS-04",
+      "group": "naturalistic_behavioral",
+      "category": "emotional_reactions",
+      "text": "An unexpected setback occurs during a travel delay. Write a short immediate response.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-EMOTIONAL_REACTIONS-05",
+      "group": "naturalistic_behavioral",
+      "category": "emotional_reactions",
+      "text": "An unexpected setback occurs during a shared workspace. Write a short immediate response.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-EMOTIONAL_REACTIONS-06",
+      "group": "naturalistic_behavioral",
+      "category": "emotional_reactions",
+      "text": "An unexpected setback occurs during a software release. Write a short immediate response.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-EMOTIONAL_REACTIONS-07",
+      "group": "naturalistic_behavioral",
+      "category": "emotional_reactions",
+      "text": "An unexpected setback occurs during a community garden. Write a short immediate response.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-EMOTIONAL_REACTIONS-08",
+      "group": "naturalistic_behavioral",
+      "category": "emotional_reactions",
+      "text": "An unexpected setback occurs during a class project. Write a short immediate response.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-EMOTIONAL_REACTIONS-09",
+      "group": "naturalistic_behavioral",
+      "category": "emotional_reactions",
+      "text": "An unexpected setback occurs during a delivery schedule. Write a short immediate response.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-EMOTIONAL_REACTIONS-10",
+      "group": "naturalistic_behavioral",
+      "category": "emotional_reactions",
+      "text": "An unexpected setback occurs during a household chore. Write a short immediate response.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-EMOTIONAL_REACTIONS-11",
+      "group": "naturalistic_behavioral",
+      "category": "emotional_reactions",
+      "text": "An unexpected setback occurs during a meeting agenda. Write a short immediate response.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    },
+    {
+      "prompt_id": "ACT-NAT-EMOTIONAL_REACTIONS-12",
+      "group": "naturalistic_behavioral",
+      "category": "emotional_reactions",
+      "text": "An unexpected setback occurs during a weekend activity. Write a short immediate response.",
+      "construction_or_source_note": "Deterministic study-authored situational prompt; frozen before activation capture."
+    }
+  ]
+}

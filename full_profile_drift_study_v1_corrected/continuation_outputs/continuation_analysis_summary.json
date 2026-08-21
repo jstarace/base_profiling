@@ -1,0 +1,22 @@
+{
+  "classification": [
+    {
+      "balanced_accuracy": 0.21634615384615385,
+      "classifier": "regularized_logistic",
+      "macro_f1": 0.2148581869071925,
+      "test_rows": 832
+    },
+    {
+      "balanced_accuracy": 0.15985576923076922,
+      "classifier": "nearest_tfidf_centroid",
+      "macro_f1": 0.14910863071857694,
+      "test_rows": 832
+    }
+  ],
+  "complete": true,
+  "conditions": 33,
+  "embedding_space": "frozen train-only word and character TF-IDF",
+  "generation": "greedy 64-token maximum",
+  "interpretation_scope": "general continuation signatures only; no personality interpretation",
+  "prompts_per_condition": 120
+}

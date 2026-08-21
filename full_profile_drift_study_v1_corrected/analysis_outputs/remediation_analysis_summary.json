@@ -1,0 +1,17 @@
+{
+  "complete": true,
+  "fixed_subset_permutations": 3000,
+  "fixed_subset_rows": 24,
+  "input_scope": "existing compact outputs only",
+  "main_effect_permutations": 2000,
+  "main_effect_rows": 3,
+  "model_experiments_rerun": false,
+  "seed": 20260803,
+  "source_files": {
+    "audit/remediation_inputs/full_profile_drift_independent_audit.md": "ac5bf2495086195ce6797ed8ded14388c5871ef70e215a4bb738fa6a3d224d7e",
+    "audit/remediation_inputs/full_profile_drift_main_effect_permutation_summary.csv": "76ac0766bcb34759bc2a720bda8256da4c6c42edc47380a4a771c0200f58ea75",
+    "audit/remediation_inputs/full_profile_drift_subset_permutation_audit_bh.csv": "29c2ff0bda8f9817f5431295f5ba5af3ef7f9282dbcd82d23c81ddca67075d86"
+  },
+  "supplied_audit_statistics_reproduced": true,
+  "termwise_rows": 93
+}

@@ -1,0 +1,87 @@
+{
+  "complete": true,
+  "confirmatory_findings": [
+    "adapter uniqueness",
+    "cross-representation preregistered all-32 analyses"
+  ],
+  "correction_scope": "analysis-only; no model experiment, adapter load, capture, generation, or training rerun",
+  "evidential_boundary": "These results establish reproducible adapter identities and weak relational OCEAN-associated geometry; they do not establish human personality or validate any adapter as a human personality profile.",
+  "exploratory_sensitivity_findings": [
+    "fixed exposure-restricted subsets",
+    "label-permutation enrichment",
+    "residualized analyses"
+  ],
+  "rejected_interpretation": "The uncalibrated 79.9% interaction-energy share is not evidence that interactions dominate: 26 of 31 non-intercept Walsh terms are interactions, so the relevant null is label permutation.",
+  "results": {
+    "all_32_row_weighted_alignment": {
+      "activation": {
+        "q_bh_all24": 0.23337675320347762,
+        "spearman_rho": 0.09680743306368023
+      },
+      "logits": {
+        "q_bh_all24": 0.16108916075593852,
+        "spearman_rho": 0.11125806648296425
+      },
+      "weights": {
+        "q_bh_all24": 0.9623458847050982,
+        "spearman_rho": -0.0027707791224374596
+      }
+    },
+    "fixed_exposure_matched_alignment": {
+      "activation": {
+        "pair_row_ratio_le_1_5": {
+          "q_bh_all24": 0.047984005331556154,
+          "spearman_rho": 0.2556534640111496
+        },
+        "pair_row_ratio_le_2_0": {
+          "q_bh_all24": 0.01599466844385205,
+          "spearman_rho": 0.2661384655859794
+        }
+      },
+      "logits": {
+        "pair_row_ratio_le_1_5": {
+          "q_bh_all24": 0.033988670443185605,
+          "spearman_rho": 0.26225479176969535
+        },
+        "pair_row_ratio_le_2_0": {
+          "q_bh_all24": 0.01599466844385205,
+          "spearman_rho": 0.2940744338534394
+        }
+      },
+      "weights": {
+        "pair_row_ratio_le_1_5": {
+          "q_bh_all24": 0.29761508068738995,
+          "spearman_rho": -0.14398537367561332
+        },
+        "pair_row_ratio_le_2_0": {
+          "q_bh_all24": 0.14128623792069311,
+          "spearman_rho": -0.18349624592718516
+        }
+      }
+    },
+    "main_effect_enrichment": {
+      "activation": {
+        "observed_median": 0.2007452021859874,
+        "p_upper": 0.0004997501249375312,
+        "permutation_null_median_mean": 0.1604875490584557
+      },
+      "logits": {
+        "observed_median": 0.26531536056961974,
+        "p_upper": 0.0004997501249375312,
+        "permutation_null_median_mean": 0.1601450310769022
+      },
+      "weights": {
+        "observed_median": 0.16199260732499166,
+        "p_upper": 0.001999000499750125,
+        "permutation_null_median_mean": 0.1612796378463398
+      }
+    },
+    "retained_token_effect_associations": {
+      "activation_effect_magnitude": 0.4871700879765395,
+      "logit_effect_magnitude": 0.1744868035190615,
+      "parameter_update_magnitude": 0.9442815249266862
+    }
+  },
+  "study": "full_profile_drift_study_v1_corrected",
+  "supported_interpretation": "All 32 adapters learn strong, reproducible identities. Their parameter magnitudes are heavily shaped by unequal training exposure. Most geometry is idiosyncratic rather than five stable trait vectors. Nevertheless, activation and logit representations contain a weak aggregate OCEAN component, and continuous alignment is modest but statistically supported in fixed exposure-matched comparisons."
+}

@@ -1,0 +1,46 @@
+{
+  "all_ptypes_reported": 32,
+  "audit_type": "continuous_target_distribution_read_only",
+  "decision": "RETAIN_CATEGORY_B",
+  "distribution_rows": 160,
+  "model_experiments_rerun": false,
+  "pilot_pair_interface_rows": 18,
+  "ptype_0_vs_ptype_31": {
+    "binary_0_100_corner_distance": 223.60679774997897,
+    "pooled_within_class_rms": 31.573877411032118,
+    "pooled_within_rms_over_row_centroid_separation": 0.29441963095336765,
+    "row_weighted_centroid_distance": 107.24107393515828,
+    "unique_tuple_weighted_centroid_distance": 112.3667395949658
+  },
+  "target_use_verification": {
+    "activation": {
+      "binary_encoded_as_0_100_for_primary_test": false,
+      "binary_target_also_reported": true,
+      "category_a_decision_filter": "row_weighted and unique_tuple_weighted only",
+      "continuous_centroids_loaded": true,
+      "continuous_targets": [
+        "row_weighted",
+        "unique_tuple_weighted"
+      ],
+      "verdict": "PASS: the Category A target-alignment decision explicitly excluded the binary target and required corrected continuous-target support."
+    },
+    "behavioral": {
+      "authorization_continuous_primary_criterion": "positive row-weighted continuous-target correlation",
+      "binary_encoded_as_0_100_for_primary_test": false,
+      "binary_role": "Binary bits were also used for target-direction signs, endpoint sign expectations, and Hamming diagnostics; therefore not every behavioral alignment check was continuous.",
+      "continuous_centroids_loaded": true,
+      "continuous_targets": [
+        "row_weighted",
+        "unique_tuple_weighted"
+      ],
+      "verdict": "MIXED: continuous row-weighted correlation was the named target-correlation gate, but binary direction tests were co-primary authorization conditions."
+    }
+  },
+  "within_class_limitation": {
+    "classes_within_rms_exceeds_nearest_centroid_separation": 0,
+    "interpretation": "When within-class RMS exceeds nearest between-class centroid separation, thresholded classes overlap substantially in continuous trait space; binary class identity is not an extreme-point guarantee.",
+    "pilot_class_count": 4,
+    "pilot_classes_within_rms_exceeds_nearest_centroid_separation": 0,
+    "total_classes": 32
+  }
+}

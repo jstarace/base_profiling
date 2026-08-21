@@ -11,6 +11,7 @@ env/
 
 # Jupyter
 .ipynb_checkpoints/
+.pytest_cache/
 
 # Environment and secrets
 .env
@@ -37,6 +38,19 @@ adapters/
 adapter_model.safetensors
 adapter_config.json
 
-# Large data — corpora and generated datasets never go in git
+# Large data: corpora and generated datasets never go in git
 *.parquet
 *.checkpoint.jsonl
+
+# Reviewed study outputs use compact Parquet tables that are part of the
+# reproducibility package. Keep the raw corpora excluded above.
+!full_profile_drift_study_v1_corrected/**/*.parquet
+
+# Local handoff bundles and superseded study exports
+CHATGPT_HANDOFF.md
+chatgpt_transfer_bundle/
+base_profiling_chatgpt_transfer_*.zip
+full_profile_drift_study_v1/
+full_profile_drift_study_v1.zip
+full_profile_drift_study_v1_corrected.zip
+profile_mapping_audit_v1/*.zip

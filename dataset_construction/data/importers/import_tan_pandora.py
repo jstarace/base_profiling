@@ -11,6 +11,8 @@ def main():
         print(f"[import] {DATASET}: raw present, skip")
         return RAW
     ds = load_dataset(DATASET)
+    # This importer creates a source holding for later class-wise training, so
+    # it deliberately combines every published split without relabeling rows.
     df = concatenate_datasets(list(ds.values())).to_pandas()
     RAW.parent.mkdir(parents=True, exist_ok=True)
     df.to_parquet(RAW)

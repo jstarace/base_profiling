@@ -1,0 +1,13 @@
+{
+  "complete": true,
+  "corrected_figures": {
+    "19": "shuffled-label Walsh main-effect enrichment",
+    "20": "fixed exposure-matched continuous-target alignment"
+  },
+  "figures": 20,
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "underlying_csv_directory": "figures/data"
+}

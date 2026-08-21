@@ -1,0 +1,285 @@
+{
+  "adapter_directory_count": 32,
+  "adapter_hashes_pass": true,
+  "adapters": [
+    {
+      "actual_sha256": "e7eba65dbc9560dac32ca75c0f8a9fc9c7f19ff09b8503c57b00bf36dd20754a",
+      "adapter": "ptype_0",
+      "expected_sha256": "e7eba65dbc9560dac32ca75c0f8a9fc9c7f19ff09b8503c57b00bf36dd20754a",
+      "path": "/workspace/adapters/ptype_0/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness low; Extraversion low; Agreeableness low; Neuroticism low"
+    },
+    {
+      "actual_sha256": "136d4980565bbcff6ea16a0db4e698f6e15a91842e590183ac3689d7f2c47531",
+      "adapter": "ptype_1",
+      "expected_sha256": "136d4980565bbcff6ea16a0db4e698f6e15a91842e590183ac3689d7f2c47531",
+      "path": "/workspace/adapters/ptype_1/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness low; Extraversion low; Agreeableness low; Neuroticism high"
+    },
+    {
+      "actual_sha256": "b0d55bbb8075424d86a944d914277d2c93c5dff08bd0b4bfabf7210dccd7a697",
+      "adapter": "ptype_2",
+      "expected_sha256": "b0d55bbb8075424d86a944d914277d2c93c5dff08bd0b4bfabf7210dccd7a697",
+      "path": "/workspace/adapters/ptype_2/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness low; Extraversion low; Agreeableness high; Neuroticism low"
+    },
+    {
+      "actual_sha256": "6540388ea2b6f3bb2c40701b1010723614c1c1129790d2b081b1319bf3fd4f4c",
+      "adapter": "ptype_3",
+      "expected_sha256": "6540388ea2b6f3bb2c40701b1010723614c1c1129790d2b081b1319bf3fd4f4c",
+      "path": "/workspace/adapters/ptype_3/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness low; Extraversion low; Agreeableness high; Neuroticism high"
+    },
+    {
+      "actual_sha256": "b235522bdff7b2e50751f13be32468be143b8c121cbd7a68ff6058001217be75",
+      "adapter": "ptype_4",
+      "expected_sha256": "b235522bdff7b2e50751f13be32468be143b8c121cbd7a68ff6058001217be75",
+      "path": "/workspace/adapters/ptype_4/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness low; Extraversion high; Agreeableness low; Neuroticism low"
+    },
+    {
+      "actual_sha256": "15190b4cf99e16295371ab5dd6572321a1cc5512169a44022b7f86f6b9a6e620",
+      "adapter": "ptype_5",
+      "expected_sha256": "15190b4cf99e16295371ab5dd6572321a1cc5512169a44022b7f86f6b9a6e620",
+      "path": "/workspace/adapters/ptype_5/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness low; Extraversion high; Agreeableness low; Neuroticism high"
+    },
+    {
+      "actual_sha256": "849d142b7df935676abc97ec36219da121cbfd9356b1f14e2308ec3c99864e85",
+      "adapter": "ptype_6",
+      "expected_sha256": "849d142b7df935676abc97ec36219da121cbfd9356b1f14e2308ec3c99864e85",
+      "path": "/workspace/adapters/ptype_6/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness low; Extraversion high; Agreeableness high; Neuroticism low"
+    },
+    {
+      "actual_sha256": "f7d2f0dbff7df004f0345382db64900992be8753378de90bbd42f09177ae49ba",
+      "adapter": "ptype_7",
+      "expected_sha256": "f7d2f0dbff7df004f0345382db64900992be8753378de90bbd42f09177ae49ba",
+      "path": "/workspace/adapters/ptype_7/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness low; Extraversion high; Agreeableness high; Neuroticism high"
+    },
+    {
+      "actual_sha256": "337a2335548ba65cb89bba57ab0a7352755d85baed64915e8c2980451e48506a",
+      "adapter": "ptype_8",
+      "expected_sha256": "337a2335548ba65cb89bba57ab0a7352755d85baed64915e8c2980451e48506a",
+      "path": "/workspace/adapters/ptype_8/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness high; Extraversion low; Agreeableness low; Neuroticism low"
+    },
+    {
+      "actual_sha256": "7c1ef6e75d7f69791c562e8e12a118e910b6a73b5e20f9fb507400bafd5fa5bd",
+      "adapter": "ptype_9",
+      "expected_sha256": "7c1ef6e75d7f69791c562e8e12a118e910b6a73b5e20f9fb507400bafd5fa5bd",
+      "path": "/workspace/adapters/ptype_9/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness high; Extraversion low; Agreeableness low; Neuroticism high"
+    },
+    {
+      "actual_sha256": "9375ef6f11e082e13263ab8a7bb79707ab1f9790dc3d0ba03740d6652e749edd",
+      "adapter": "ptype_10",
+      "expected_sha256": "9375ef6f11e082e13263ab8a7bb79707ab1f9790dc3d0ba03740d6652e749edd",
+      "path": "/workspace/adapters/ptype_10/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness high; Extraversion low; Agreeableness high; Neuroticism low"
+    },
+    {
+      "actual_sha256": "dcb3a1aef6a687cbfc462345339def711d98859e09ecce139988c05533c6e18c",
+      "adapter": "ptype_11",
+      "expected_sha256": "dcb3a1aef6a687cbfc462345339def711d98859e09ecce139988c05533c6e18c",
+      "path": "/workspace/adapters/ptype_11/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness high; Extraversion low; Agreeableness high; Neuroticism high"
+    },
+    {
+      "actual_sha256": "34a38462b38f96b72d6ecbfab19407a8117c95aafca7173b74fd11105541e584",
+      "adapter": "ptype_12",
+      "expected_sha256": "34a38462b38f96b72d6ecbfab19407a8117c95aafca7173b74fd11105541e584",
+      "path": "/workspace/adapters/ptype_12/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness high; Extraversion high; Agreeableness low; Neuroticism low"
+    },
+    {
+      "actual_sha256": "e7198347ce4e749c01ffe83e3d369b214f992b6fca1bd198c0fd915619b636be",
+      "adapter": "ptype_13",
+      "expected_sha256": "e7198347ce4e749c01ffe83e3d369b214f992b6fca1bd198c0fd915619b636be",
+      "path": "/workspace/adapters/ptype_13/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness high; Extraversion high; Agreeableness low; Neuroticism high"
+    },
+    {
+      "actual_sha256": "7790c00b653464b877e091d0520522cbc957264c115f954759b08cc8b138c2b4",
+      "adapter": "ptype_14",
+      "expected_sha256": "7790c00b653464b877e091d0520522cbc957264c115f954759b08cc8b138c2b4",
+      "path": "/workspace/adapters/ptype_14/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness high; Extraversion high; Agreeableness high; Neuroticism low"
+    },
+    {
+      "actual_sha256": "1a301383510cdc66ffd8782d9e0279ecd3a51008d78b538fb4f5695fe779cdfd",
+      "adapter": "ptype_15",
+      "expected_sha256": "1a301383510cdc66ffd8782d9e0279ecd3a51008d78b538fb4f5695fe779cdfd",
+      "path": "/workspace/adapters/ptype_15/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness low; Conscientiousness high; Extraversion high; Agreeableness high; Neuroticism high"
+    },
+    {
+      "actual_sha256": "28c824e72085ccb507fa58e526c3eb651e18175aea1c42fac8cc24ef2a1d453f",
+      "adapter": "ptype_16",
+      "expected_sha256": "28c824e72085ccb507fa58e526c3eb651e18175aea1c42fac8cc24ef2a1d453f",
+      "path": "/workspace/adapters/ptype_16/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness low; Extraversion low; Agreeableness low; Neuroticism low"
+    },
+    {
+      "actual_sha256": "6824a834ee45bc721b3246624fbe5d14b03bf91f3803068df36ba3570fd3ca02",
+      "adapter": "ptype_17",
+      "expected_sha256": "6824a834ee45bc721b3246624fbe5d14b03bf91f3803068df36ba3570fd3ca02",
+      "path": "/workspace/adapters/ptype_17/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness low; Extraversion low; Agreeableness low; Neuroticism high"
+    },
+    {
+      "actual_sha256": "e0b4e12a5a25c64f83357f9c6c0015477730d05c0828c41532f63189bb311870",
+      "adapter": "ptype_18",
+      "expected_sha256": "e0b4e12a5a25c64f83357f9c6c0015477730d05c0828c41532f63189bb311870",
+      "path": "/workspace/adapters/ptype_18/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness low; Extraversion low; Agreeableness high; Neuroticism low"
+    },
+    {
+      "actual_sha256": "8d6144874502a7ce7f53188833b4169b5a8b275a301abf9f32c82d8a4aea9c72",
+      "adapter": "ptype_19",
+      "expected_sha256": "8d6144874502a7ce7f53188833b4169b5a8b275a301abf9f32c82d8a4aea9c72",
+      "path": "/workspace/adapters/ptype_19/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness low; Extraversion low; Agreeableness high; Neuroticism high"
+    },
+    {
+      "actual_sha256": "8f774acbe6460195f38d2bdb6994a875d213bd6faab7bc86c4989c7c0442b5ff",
+      "adapter": "ptype_20",
+      "expected_sha256": "8f774acbe6460195f38d2bdb6994a875d213bd6faab7bc86c4989c7c0442b5ff",
+      "path": "/workspace/adapters/ptype_20/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness low; Extraversion high; Agreeableness low; Neuroticism low"
+    },
+    {
+      "actual_sha256": "c8fae57c8b946ec6c17be7786e4541eed71ecc9447c069db274eca23a7d64d4d",
+      "adapter": "ptype_21",
+      "expected_sha256": "c8fae57c8b946ec6c17be7786e4541eed71ecc9447c069db274eca23a7d64d4d",
+      "path": "/workspace/adapters/ptype_21/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness low; Extraversion high; Agreeableness low; Neuroticism high"
+    },
+    {
+      "actual_sha256": "8fc8c40add577c502a965ed63f805b7d8f273d4f35f0f56153f6a1b42584b244",
+      "adapter": "ptype_22",
+      "expected_sha256": "8fc8c40add577c502a965ed63f805b7d8f273d4f35f0f56153f6a1b42584b244",
+      "path": "/workspace/adapters/ptype_22/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness low; Extraversion high; Agreeableness high; Neuroticism low"
+    },
+    {
+      "actual_sha256": "4e8043f301afe136ef1bd390d9e84d7635efeacc51dc28b6db359f6d6d9c5aed",
+      "adapter": "ptype_23",
+      "expected_sha256": "4e8043f301afe136ef1bd390d9e84d7635efeacc51dc28b6db359f6d6d9c5aed",
+      "path": "/workspace/adapters/ptype_23/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness low; Extraversion high; Agreeableness high; Neuroticism high"
+    },
+    {
+      "actual_sha256": "5677c0a461fcb28c0e5434a3f74066fbdc65351b39c71995fb53853267914f6c",
+      "adapter": "ptype_24",
+      "expected_sha256": "5677c0a461fcb28c0e5434a3f74066fbdc65351b39c71995fb53853267914f6c",
+      "path": "/workspace/adapters/ptype_24/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness high; Extraversion low; Agreeableness low; Neuroticism low"
+    },
+    {
+      "actual_sha256": "87577a93a004561d43f16de255242f21612aacefff77d8525966886d888fdcf4",
+      "adapter": "ptype_25",
+      "expected_sha256": "87577a93a004561d43f16de255242f21612aacefff77d8525966886d888fdcf4",
+      "path": "/workspace/adapters/ptype_25/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness high; Extraversion low; Agreeableness low; Neuroticism high"
+    },
+    {
+      "actual_sha256": "985f2096dc0de4826697952272eb224d39ee6955421119b162f20337374c7007",
+      "adapter": "ptype_26",
+      "expected_sha256": "985f2096dc0de4826697952272eb224d39ee6955421119b162f20337374c7007",
+      "path": "/workspace/adapters/ptype_26/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness high; Extraversion low; Agreeableness high; Neuroticism low"
+    },
+    {
+      "actual_sha256": "0af7736f43e00e1a227bd59e9a3904adec2d8cbbc66e4623cee4bb57c2495d1e",
+      "adapter": "ptype_27",
+      "expected_sha256": "0af7736f43e00e1a227bd59e9a3904adec2d8cbbc66e4623cee4bb57c2495d1e",
+      "path": "/workspace/adapters/ptype_27/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness high; Extraversion low; Agreeableness high; Neuroticism high"
+    },
+    {
+      "actual_sha256": "b61816240ddbe96023d1d43e0939125ef70daeb19c980fbaa0a0113b2a57d232",
+      "adapter": "ptype_28",
+      "expected_sha256": "b61816240ddbe96023d1d43e0939125ef70daeb19c980fbaa0a0113b2a57d232",
+      "path": "/workspace/adapters/ptype_28/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness high; Extraversion high; Agreeableness low; Neuroticism low"
+    },
+    {
+      "actual_sha256": "8073ec517d460e38848ce5594334d46b70cd86eb078f4bc36533113595a57fb6",
+      "adapter": "ptype_29",
+      "expected_sha256": "8073ec517d460e38848ce5594334d46b70cd86eb078f4bc36533113595a57fb6",
+      "path": "/workspace/adapters/ptype_29/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness high; Extraversion high; Agreeableness low; Neuroticism high"
+    },
+    {
+      "actual_sha256": "7dafdb9551b6fb153394af5fb3eadab71073dc7298fc98470b381d86c3f01bf7",
+      "adapter": "ptype_30",
+      "expected_sha256": "7dafdb9551b6fb153394af5fb3eadab71073dc7298fc98470b381d86c3f01bf7",
+      "path": "/workspace/adapters/ptype_30/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness high; Extraversion high; Agreeableness high; Neuroticism low"
+    },
+    {
+      "actual_sha256": "2919d58c713d9b3e2318d9b5518801ff4e3c5ee93e60add67b2acbb6e672c2fb",
+      "adapter": "ptype_31",
+      "expected_sha256": "2919d58c713d9b3e2318d9b5518801ff4e3c5ee93e60add67b2acbb6e672c2fb",
+      "path": "/workspace/adapters/ptype_31/adapter_model.safetensors",
+      "present": true,
+      "profile": "Openness high; Conscientiousness high; Extraversion high; Agreeableness high; Neuroticism high"
+    }
+  ],
+  "available_free_bytes": 341324936052736,
+  "base_model": "meta-llama/Llama-3.1-8B",
+  "base_revision": "d04e592bb4f6aa9cfee91e2e20afa771667e1d4b",
+  "disk_space_pass": true,
+  "minimum_free_bytes": 64424509440,
+  "model_snapshot_path": "/workspace/.hf-cache/hub/models--meta-llama--Llama-3.1-8B/snapshots/d04e592bb4f6aa9cfee91e2e20afa771667e1d4b",
+  "model_snapshot_present": true,
+  "pass": true,
+  "tokenizer": {
+    "tokenizer.json": {
+      "adapter_0": "6b9e4e7fb171f92fd137b777cc2714bf87d11576700a1dcd7a399e7bbe39537b",
+      "all_adapter_hashes_identical": true,
+      "base": "76e48799b099d43365bd24ccd8ecc5aedac831718da780552f03b0a6eb4412aa"
+    },
+    "tokenizer_config.json": {
+      "adapter_0": "70c4290900eef25c7053566c7c79230d17e53a7dcaa34a03d704246654fe2f6f",
+      "all_adapter_hashes_identical": true,
+      "base": "8004530facf809ac432114de2a4dcc65fcb632da5ec16d666091aeb6a2ee444a"
+    }
+  },
+  "tokenizer_files_identical_across_adapters": true,
+  "tokenizer_match": true,
+  "tokenizer_semantically_matches_base_all_32": true
+}

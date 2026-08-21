@@ -1,0 +1,10 @@
+{
+  "adapters": 32,
+  "blocks": 224,
+  "complete": true,
+  "dense_updates_materialized": false,
+  "exact_low_rank_inner_products": true,
+  "factor_scale": 2.0,
+  "model_aggregate_profile_kernel_effective_rank": 20.70722217800002,
+  "total_update_frobenius_norm": 368.8459327029075
+}

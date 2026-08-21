@@ -1,0 +1,26 @@
+representation_a,representation_b,spearman_rho
+weights,weights,1.0
+activations,weights,-0.47099960466611984
+logits,weights,-0.39789558465160463
+continuous targets,weights,-0.002770779122437459
+token exposure,weights,-0.11001758350690653
+weights,activations,-0.47099960466611984
+activations,activations,1.0
+logits,activations,0.861359260155262
+continuous targets,activations,0.09680743306368023
+token exposure,activations,0.6775510344569862
+weights,logits,-0.39789558465160463
+activations,logits,0.861359260155262
+logits,logits,1.0
+continuous targets,logits,0.11125806648296425
+token exposure,logits,0.6132968878766243
+weights,continuous targets,-0.002770779122437459
+activations,continuous targets,0.09680743306368023
+logits,continuous targets,0.11125806648296425
+continuous targets,continuous targets,1.0
+token exposure,continuous targets,0.10206143999874123
+weights,token exposure,-0.11001758350690653
+activations,token exposure,0.6775510344569862
+logits,token exposure,0.6132968878766243
+continuous targets,token exposure,0.10206143999874123
+token exposure,token exposure,1.0

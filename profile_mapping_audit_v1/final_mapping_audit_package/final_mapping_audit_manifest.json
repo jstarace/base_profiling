@@ -1,0 +1,83 @@
+{
+  "adapter_directories": [
+    "/workspace/adapters/ptype_0",
+    "/workspace/adapters/ptype_1",
+    "/workspace/adapters/ptype_2",
+    "/workspace/adapters/ptype_3",
+    "/workspace/adapters/ptype_4",
+    "/workspace/adapters/ptype_5",
+    "/workspace/adapters/ptype_6",
+    "/workspace/adapters/ptype_7",
+    "/workspace/adapters/ptype_8",
+    "/workspace/adapters/ptype_9",
+    "/workspace/adapters/ptype_10",
+    "/workspace/adapters/ptype_11",
+    "/workspace/adapters/ptype_12",
+    "/workspace/adapters/ptype_13",
+    "/workspace/adapters/ptype_14",
+    "/workspace/adapters/ptype_15",
+    "/workspace/adapters/ptype_16",
+    "/workspace/adapters/ptype_17",
+    "/workspace/adapters/ptype_18",
+    "/workspace/adapters/ptype_19",
+    "/workspace/adapters/ptype_20",
+    "/workspace/adapters/ptype_21",
+    "/workspace/adapters/ptype_22",
+    "/workspace/adapters/ptype_23",
+    "/workspace/adapters/ptype_24",
+    "/workspace/adapters/ptype_25",
+    "/workspace/adapters/ptype_26",
+    "/workspace/adapters/ptype_27",
+    "/workspace/adapters/ptype_28",
+    "/workspace/adapters/ptype_29",
+    "/workspace/adapters/ptype_30",
+    "/workspace/adapters/ptype_31"
+  ],
+  "all_32_class_target_correspondence": true,
+  "audit_only_standard_deviation_ddof": 0,
+  "continuous_distribution_rows": 160,
+  "maximum_target_statistic_abs_difference": 1.4210854715202004e-14,
+  "operations_rerun": {
+    "activation_capture": false,
+    "adapter_training": false,
+    "model_inference": false,
+    "permutation_analyses": false,
+    "questionnaires": false
+  },
+  "package": "final_mapping_audit_package",
+  "pilot_adapter_weight_sha256": {
+    "ptype_0": "e7eba65dbc9560dac32ca75c0f8a9fc9c7f19ff09b8503c57b00bf36dd20754a",
+    "ptype_23": "4e8043f301afe136ef1bd390d9e84d7635efeacc51dc28b6db359f6d6d9c5aed",
+    "ptype_31": "2919d58c713d9b3e2318d9b5518801ff4e3c5ee93e60add67b2acbb6e672c2fb",
+    "ptype_9": "7c1ef6e75d7f69791c562e8e12a118e910b6a73b5e20f9fb507400bafd5fa5bd"
+  },
+  "pilot_mapping": {
+    "ptype_0": "00000",
+    "ptype_23": "10111",
+    "ptype_31": "11111",
+    "ptype_9": "01001"
+  },
+  "ptype_0_vs_ptype_31": {
+    "binary_0_100_corner_distance": 223.60679774997897,
+    "pooled_within_class_rms": 31.573877411032118,
+    "pooled_within_rms_over_row_centroid_separation": 0.29441963095336765,
+    "row_weighted_centroid_distance": 107.24107393515828,
+    "unique_tuple_weighted_centroid_distance": 112.3667395949658
+  },
+  "ptype_formula": "ptype = 16*O_high + 8*C_high + 4*E_high + 2*A_high + N_high",
+  "raw_rows": 3006566,
+  "terminal_activation_decision": {
+    "category": "B",
+    "changed_by_mapping_audit": false,
+    "label": "adapter-specific but non-OCEAN-aligned structure"
+  },
+  "threshold": "strict >50",
+  "threshold_mismatches": 0,
+  "trait_order": [
+    "O",
+    "C",
+    "E",
+    "A",
+    "N"
+  ]
+}

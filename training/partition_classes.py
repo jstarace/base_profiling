@@ -53,6 +53,8 @@ def main():
 def pack(df, n_groups):
     """Greedy: classes largest-first, each to whichever group has the fewest rows so far."""
     bins = [{"group": i, "ptypes": [], "rows": 0} for i in range(n_groups)]
+    # ptype is already the authoritative O,C,E,A,N bit-packed class label.
+    # Sorting changes pod assignment only; it never renumbers the classes.
     for row in df.sort_values("rows", ascending=False).itertuples():
         target = min(bins, key=lambda b: b["rows"])
         target["ptypes"].append(int(row.ptype))

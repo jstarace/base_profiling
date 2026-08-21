@@ -1,0 +1,25 @@
+{
+  "binary_bits_role": "Hamming geometry only",
+  "complete": true,
+  "confirmatory_findings": [
+    "adapter uniqueness",
+    "cross-representation preregistered all-32 analyses"
+  ],
+  "corrected": true,
+  "exploratory_sensitivity_findings": [
+    "fixed exposure subsets",
+    "label-permutation enrichment",
+    "residualized analyses"
+  ],
+  "human_personality_claim": false,
+  "model_experiments_rerun": false,
+  "primary_target": "row-weighted continuous OCEAN centroids",
+  "supported_descriptions": [
+    "strong reproducible adapter identities",
+    "strong exposure scaling in parameter space",
+    "weak aggregate OCEAN-related activation/logit structure",
+    "modest exposure-matched continuous alignment",
+    "predominantly idiosyncratic residual geometry"
+  ],
+  "withdrawn_description": "interaction-dominated profile geometry based on uncalibrated aggregate energy share"
+}

@@ -34,8 +34,8 @@ work therefore has two halves:
 
 | dataset | platform | rows contributed | license | citation |
 |---|---|---|---|---|
-| `jingjietan/kaggle-mbti` (Tan et al. 2025) | PersonalityCafe (via the datasnaek scrape) | 8,675 (one row per user, 50 posts joined with `\|\|\|`) | Apache 2.0, HF DOI 10.57967/hf/3955 | `Tan2025AFLPS` in `references.bib` |
-| `minhaozhang/mbti` | Reddit | 221,692 chunks after per-author consolidation | not verified; confirm on the dataset page | `minhaozhang_reddit_mbti` in `references.bib` |
+| [`jingjietan/kaggle-mbti`](https://huggingface.co/datasets/jingjietan/kaggle-mbti) (Tan et al. 2025) | PersonalityCafe (via the datasnaek scrape) | 8,675 (one row per user, 50 posts joined with `\|\|\|`) | Apache 2.0, HF DOI 10.57967/hf/3955 | DOI 10.1038/s41598-025-22853-y |
+| [`minhaozhang/mbti`](https://huggingface.co/datasets/minhaozhang/mbti) | Reddit | 221,692 chunks after per-author consolidation | not verified; confirm on the dataset page | no paper citation supplied |
 
 Combined pre-clean corpus: **230,367 rows** in `processed_data/pre_clean_data.parquet`.
 jingjietan is 3.77% of the corpus, minhaozhang 96.23%.
@@ -64,8 +64,8 @@ They are raw holdings for future OCEAN work.
 
 | importer | dataset | rows | raw file |
 |---|---|---|---|
-| `import_tan_ocean.py` | `jingjietan/essays-big5` | 2,467 | `raw_data/tan_ocean.parquet` (4.8 MB) |
-| `import_tan_pandora.py` | `jingjietan/pandora-big5` | 3,006,566 | `raw_data/tan_pandora.parquet` (480 MB) |
+| `import_tan_ocean.py` | [`jingjietan/essays-big5`](https://huggingface.co/datasets/jingjietan/essays-big5) | 2,467 | `raw_data/tan_ocean.parquet` (4.8 MB) |
+| `import_tan_pandora.py` | [`jingjietan/pandora-big5`](https://huggingface.co/datasets/jingjietan/pandora-big5) | 3,006,566 | `raw_data/tan_pandora.parquet` (480 MB) |
 
 Both ship the same eight columns — `O`, `C`, `E`, `A`, `N`, `ptype`, `text`, and an upstream
 `__index_level_0__` — but with different label encodings:
@@ -84,6 +84,11 @@ truth for a binary OCEAN label without re-deriving a threshold.
 Both importers concatenate all three upstream splits (train / validation / test) into one
 frame, deliberately: the two OCEAN sources are expected to be merged and possibly deduped
 later, so split boundaries are not preserved at ingest.
+
+The PANDORA training source should be cited as Gjurković et al. (2021),
+[*PANDORA Talks: Personality and Demographics on Reddit*](https://aclanthology.org/2021.socialnlp-1.12/),
+DOI `10.18653/v1/2021.socialnlp-1.12`. Full source and benchmark attribution is
+collected in the repository-level `DATASET_ATTRIBUTION.md`.
 
 ### 2.2 OCEAN class structure and the author-proxy tiering
 

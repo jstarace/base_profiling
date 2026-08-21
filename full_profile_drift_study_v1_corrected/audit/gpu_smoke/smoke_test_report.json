@@ -1,0 +1,161 @@
+{
+  "adapter_conditions": [
+    {
+      "base_restoration": {
+        "exact": true,
+        "max_abs": 0.0,
+        "memory_after": {
+          "allocated": 16094078976,
+          "reserved": 16118710272
+        },
+        "memory_before": {
+          "allocated": 16094078976,
+          "reserved": 16095641600
+        }
+      },
+      "effect_max_abs": {
+        "final_token": 14.0,
+        "logits": 9.9765625,
+        "mean_tokens": 10.142578125
+      },
+      "finite": true,
+      "model_key": "ptype_0",
+      "repeat_exact": {
+        "final_token": true,
+        "logits": true,
+        "mean_tokens": true
+      },
+      "shapes": {
+        "final_token": [
+          6,
+          32,
+          4096
+        ],
+        "logits": [
+          6,
+          128256
+        ],
+        "mean_tokens": [
+          6,
+          32,
+          4096
+        ]
+      }
+    },
+    {
+      "base_restoration": {
+        "exact": true,
+        "max_abs": 0.0,
+        "memory_after": {
+          "allocated": 16094078976,
+          "reserved": 16118710272
+        },
+        "memory_before": {
+          "allocated": 16094078976,
+          "reserved": 16095641600
+        }
+      },
+      "effect_max_abs": {
+        "final_token": 13.46875,
+        "logits": 9.6171875,
+        "mean_tokens": 7.36328125
+      },
+      "finite": true,
+      "model_key": "ptype_16",
+      "repeat_exact": {
+        "final_token": true,
+        "logits": true,
+        "mean_tokens": true
+      },
+      "shapes": {
+        "final_token": [
+          6,
+          32,
+          4096
+        ],
+        "logits": [
+          6,
+          128256
+        ],
+        "mean_tokens": [
+          6,
+          32,
+          4096
+        ]
+      }
+    },
+    {
+      "base_restoration": {
+        "exact": true,
+        "max_abs": 0.0,
+        "memory_after": {
+          "allocated": 16094078976,
+          "reserved": 16118710272
+        },
+        "memory_before": {
+          "allocated": 16094078976,
+          "reserved": 16095641600
+        }
+      },
+      "effect_max_abs": {
+        "final_token": 12.3125,
+        "logits": 10.23046875,
+        "mean_tokens": 9.20703125
+      },
+      "finite": true,
+      "model_key": "ptype_31",
+      "repeat_exact": {
+        "final_token": true,
+        "logits": true,
+        "mean_tokens": true
+      },
+      "shapes": {
+        "final_token": [
+          6,
+          32,
+          4096
+        ],
+        "logits": [
+          6,
+          128256
+        ],
+        "mean_tokens": [
+          6,
+          32,
+          4096
+        ]
+      }
+    }
+  ],
+  "base_repeat_exact": {
+    "final_token": true,
+    "logits": true,
+    "mean_tokens": true
+  },
+  "base_shapes": {
+    "final_token": [
+      6,
+      32,
+      4096
+    ],
+    "logits": [
+      6,
+      128256
+    ],
+    "mean_tokens": [
+      6,
+      32,
+      4096
+    ]
+  },
+  "pass": true,
+  "prompt_ids": [
+    "ACT-IPIP-N1-01",
+    "ACT-IPIP-N1-02",
+    "ACT-NEUTRAL-001",
+    "ACT-NEUTRAL-002",
+    "ACT-NAT-PLANNING-01",
+    "ACT-NAT-PLANNING-02"
+  ],
+  "prompt_manifest_fingerprint": "14a2c282b45de44a6d640fc2e6dc1ed04d418f2f10d941f828d9c3c09a4704ad"
+}

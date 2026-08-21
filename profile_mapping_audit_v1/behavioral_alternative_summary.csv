@@ -1,0 +1,4 @@
+interface,intended_binary_correlation,intended_target_directed_count_of_20,intended_hamming_distance_of_20,diagnostic_best_mapping_id,diagnostic_best_binary_correlation,diagnostic_best_target_directed_count_of_20,diagnostic_best_has_source_code_evidence
+A_label_rotation,-0.1230897208864285,11,9,positions=OCENA;polarity=high_is_1,0.31154204854071865,13,False
+B_context_calibrated_labels,0.1452207886105979,8,9,positions=OCENA;polarity=inverted,-0.09354118357999476,14,False
+C_calibrated_verbal_anchors,-0.024006026851890322,13,10,positions=ONCAE;polarity=high_is_1,0.4694923693605774,13,False

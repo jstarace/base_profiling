@@ -1,0 +1,61 @@
+{
+  "source": "dataset_construction/data/processed_data/ocean_class_counts.csv",
+  "base_model": "meta-llama/Llama-3.1-8B",
+  "n_groups": 3,
+  "total_rows": 3006566,
+  "groups": [
+    {
+      "group": 0,
+      "ptypes": [
+        9,
+        0,
+        24,
+        30,
+        26,
+        14,
+        20,
+        3,
+        21,
+        18
+      ],
+      "rows": 1003286,
+      "n_classes": 10
+    },
+    {
+      "group": 1,
+      "ptypes": [
+        25,
+        1,
+        17,
+        12,
+        4,
+        6,
+        13,
+        27,
+        19,
+        15,
+        7,
+        23
+      ],
+      "rows": 998090,
+      "n_classes": 12
+    },
+    {
+      "group": 2,
+      "ptypes": [
+        10,
+        8,
+        11,
+        31,
+        29,
+        28,
+        16,
+        2,
+        5,
+        22
+      ],
+      "rows": 1005190,
+      "n_classes": 10
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "authoritative_shards": 297,
+  "checksum_failures": [],
+  "conditions": 33,
+  "expected_shards": 297,
+  "extra": [],
+  "missing": [],
+  "pass": true,
+  "preserved_superseded_partial_shards": 0,
+  "restoration_failures": [],
+  "storage_roots": [
+    "/workspace/full_profile_drift_study_v1",
+    "/root/full_profile_drift_spill"
+  ]
+}

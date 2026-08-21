@@ -1,0 +1,15 @@
+training_target,comparison,behavioral_interface,pair_count,pearson_r,spearman_r
+row_weighted,activation_centroid,,6,-0.14706732985438348,-0.3142857142857143
+row_weighted,activation_prompt_middle,,6,-0.0732875329810903,0.14285714285714288
+row_weighted,effect_absolute_difference,,6,-0.11379981307234073,-0.08571428571428573
+row_weighted,effect_rss,,6,0.1493517026411248,0.2
+row_weighted,behavioral_ocean_score_distance,A_label_rotation,6,0.17612705404723,0.14285714285714288
+row_weighted,behavioral_ocean_score_distance,B_context_calibrated_labels,6,0.12497988652797115,0.14285714285714288
+row_weighted,behavioral_ocean_score_distance,C_calibrated_verbal_anchors,6,-0.07647148889896731,-0.08571428571428573
+unique_tuple_weighted,activation_centroid,,6,-0.06650809437934635,-0.14285714285714288
+unique_tuple_weighted,activation_prompt_middle,,6,-0.000348292459148391,0.2571428571428572
+unique_tuple_weighted,effect_absolute_difference,,6,-0.03598493905786252,0.028571428571428574
+unique_tuple_weighted,effect_rss,,6,0.051523414020430695,-0.08571428571428573
+unique_tuple_weighted,behavioral_ocean_score_distance,A_label_rotation,6,0.07995795812406503,0.028571428571428574
+unique_tuple_weighted,behavioral_ocean_score_distance,B_context_calibrated_labels,6,0.18374597216937813,0.2571428571428572
+unique_tuple_weighted,behavioral_ocean_score_distance,C_calibrated_verbal_anchors,6,-0.011057330813079453,0.028571428571428574

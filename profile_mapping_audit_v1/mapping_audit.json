@@ -1,0 +1,43 @@
+{
+  "activation_distance_invariant_across_all_alternatives": true,
+  "all_32_target_rows_exactly_recomputed": true,
+  "alternative_behavioral_conditions": 720,
+  "alternative_mapping_with_original_code_evidence": null,
+  "alternative_mappings_tested": 240,
+  "audit_type": "read_only_profile_mapping",
+  "decision": "RETAIN_CATEGORY_B",
+  "evidence_sha256": {
+    "activation_distances": "6fb4aa3329280c8d8bb195197073cf9acd2e953f8bb1970c3aa53bfc3cfb8d34",
+    "activation_study_manifest": "2e6aa7b21a0187551af4adf7bfe023f334e27c2275c53f97ef18ee9e9b660bbb",
+    "activation_target_lookup_code": "72243ca679f9241689a603eea2502bbbc5d4c01ec0b7c87831edb3cd0381e543",
+    "behavioral_results": "06d35bb62b993d9d8f6d890c4b00f2c0cbb313ac8722111c185c84ff2c2a003e",
+    "benchmark_manifest": "f6a506b775eb5f58655439fd9d7d1fed7f673c80d992300eab031eaa9ca49584",
+    "benchmark_targets": "4a760729fb86c0284eea139571db05b00f0c4fc0de52b093f6bb752a7c5dfe7a",
+    "pandora_importer": "8b398acd85f5af16f88528b76c5f7576624c31ef5b011aeb10f4f05f6689d099",
+    "training_code": "530f54a5f23631c54d483d38f073c30f442465c1f3c4abb17906104ea8a909b2",
+    "training_partition": "0996cd3fc23068dde053889505c4ca6bc155195423427d49c2a435f469dc7905"
+  },
+  "full_dataset_ptype_mismatches": 0,
+  "intended_formula": "ptype = 16*O_high + 8*C_high + 4*E_high + 2*A_high + N_high",
+  "mapping_discrepancy_found": false,
+  "model_experiments_rerun": false,
+  "pilot_decode_OCEAN": {
+    "ptype_0": "00000",
+    "ptype_23": "10111",
+    "ptype_31": "11111",
+    "ptype_9": "01001"
+  },
+  "raw_column_order": [
+    "O",
+    "C",
+    "E",
+    "A",
+    "N",
+    "ptype"
+  ],
+  "raw_dataset_sha256": "989e07fc0e4712f3edc4642d7d4a88f2d2809751e6616ac2071cffd1ca2d65ce",
+  "raw_rows": 3006566,
+  "representative_rows_all_match": true,
+  "source_evidence_note": "The importer preserves upstream columns; training filters the stored integer ptype directly. The strict >50 rule is an independently verified decoding of all upstream rows, not a re-binning step in training.",
+  "threshold_rule": "raw_trait > 50"
+}

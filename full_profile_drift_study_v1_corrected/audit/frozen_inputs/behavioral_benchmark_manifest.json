@@ -1,0 +1,111 @@
+{
+  "adapter_weight_sha256": {
+    "ptype_0": "e7eba65dbc9560dac32ca75c0f8a9fc9c7f19ff09b8503c57b00bf36dd20754a",
+    "ptype_23": "4e8043f301afe136ef1bd390d9e84d7635efeacc51dc28b6db359f6d6d9c5aed",
+    "ptype_31": "2919d58c713d9b3e2318d9b5518801ff4e3c5ee93e60add67b2acbb6e672c2fb",
+    "ptype_9": "7c1ef6e75d7f69791c562e8e12a118e910b6a73b5e20f9fb507400bafd5fa5bd"
+  },
+  "anchors": {
+    "1": "Very Inaccurate",
+    "2": "Moderately Inaccurate",
+    "3": "Neither Inaccurate nor Accurate",
+    "4": "Moderately Accurate",
+    "5": "Very Accurate"
+  },
+  "base_model": "meta-llama/Llama-3.1-8B",
+  "base_revision": "d04e592bb4f6aa9cfee91e2e20afa771667e1d4b",
+  "batch_size": 16,
+  "benchmark_csv_sha256": "6e0396edc4b1f20e5f2d20228c2bde25cbb4de2133235d511463e1bc741e8090",
+  "candidate_continuation_policy": "one leading ASCII space before every exact label or verbal anchor",
+  "code_commit": "476e8f7b021b602fa49355ac0a43da048992616f",
+  "deterministic_repeat_passes": 2,
+  "dtype": "bfloat16",
+  "full_32_adapter_run_authorized": false,
+  "interfaces": [
+    "A_label_rotation",
+    "B_context_calibrated_labels",
+    "C_calibrated_verbal_anchors"
+  ],
+  "latin_square": [
+    {
+      "1": "A",
+      "2": "B",
+      "3": "C",
+      "4": "D",
+      "5": "E"
+    },
+    {
+      "1": "B",
+      "2": "C",
+      "3": "D",
+      "4": "E",
+      "5": "A"
+    },
+    {
+      "1": "C",
+      "2": "D",
+      "3": "E",
+      "4": "A",
+      "5": "B"
+    },
+    {
+      "1": "D",
+      "2": "E",
+      "3": "A",
+      "4": "B",
+      "5": "C"
+    },
+    {
+      "1": "E",
+      "2": "A",
+      "3": "B",
+      "4": "C",
+      "5": "D"
+    }
+  ],
+  "locked_environment_file": "requirements.lock.txt",
+  "manifest_fingerprint": "1fb3c38204af9187284fcc1552fae591de245d29971c678ee3d774f09c1fce4c",
+  "model_keys": [
+    "base",
+    "ptype_0",
+    "ptype_31",
+    "ptype_9",
+    "ptype_23"
+  ],
+  "raw_benchmark_file": "ipip_neo_120_items.json",
+  "raw_benchmark_file_sha256": "f89c813b3f34b8f3626ee31f979fc73fb5e38095b28d2dc6cc00d5a7500ca083",
+  "scope": "bounded_five_model_three_interface_pilot",
+  "source_file_sha256": {
+    "pyproject.toml": "f21a907b3198ae66d4505761c217aa36ab66f0b81d47487816302b9c7882aafc",
+    "requirements.lock.txt": "aa281af46adaf4b51a699a364980c3ca1412ff88e1abb01f347c9b6cf7b9a2c4",
+    "scripts/analyze_existing_pilot.py": "5c244d8b4bc871acce61951a9cae7ce0fa4d9099d6562ed5847ab04ec4527eae",
+    "scripts/build_manifest.py": "9e615681596783a307cabb9ef53c77933c66c67393484e724c196c0353084bf9",
+    "scripts/gpu_smoke.py": "37501b0bb5ffb3980dd027d7f5b0d95853a0f587e1173f05587053fcb1ba59cd",
+    "src/ocean_interface/__init__.py": "a39f997e9df4a670213684fd4258db5b8edcb418c131c5a844836c7ba457fab5",
+    "src/ocean_interface/backends.py": "205da748b99ccc572213f00cacc3da954089faf81d8a8aa4a535e743f3ce97ee",
+    "src/ocean_interface/inspect_extension.py": "ad085aa5d9f608f650eaa75b36fe4bb545dd52571c7fa3fdb721f1593d0bbfd4",
+    "src/ocean_interface/io.py": "f66d11a334b54d248d4eca70ed2b4380b832766625a4e659cf8a8b5d6419becd",
+    "src/ocean_interface/runner.py": "b9f3504863c305a3b1fe984f4e25065f7cf7425d845ebb3a4788957256b88696",
+    "src/ocean_interface/scoring.py": "2d4225c8b2a696bbe23d844f4ab72d9b1108aca0213df05e576c1b953d72e1ca",
+    "src/ocean_interface/spec.py": "248b4fcb888b35013581ddd7995e051e504430b892b71fa82bfa0f8c96964bd9"
+  },
+  "target_csv_sha256": "4a760729fb86c0284eea139571db05b00f0c4fc0de52b093f6bb752a7c5dfe7a",
+  "templates": {
+    "completion_v1": {
+      "null": "Statement:\n{options}\nAnswer:",
+      "real": "Statement: {item}\n{options}\nAnswer:"
+    },
+    "completion_v2": {
+      "null": "How accurately does this statement describe me?\n\n{options}\nResponse:",
+      "real": "How accurately does this statement describe me?\n{item}\n{options}\nResponse:"
+    },
+    "completion_v3": {
+      "null": "\nChoose one response:\n{options}\nSelected label:",
+      "real": "{item}\nChoose one response:\n{options}\nSelected label:"
+    }
+  },
+  "tokenizer_sha256": {
+    "tokenizer.json": "76e48799b099d43365bd24ccd8ecc5aedac831718da780552f03b0a6eb4412aa",
+    "tokenizer_config.json": "8004530facf809ac432114de2a4dcc65fcb632da5ec16d666091aeb6a2ee444a"
+  }
+}

@@ -1,0 +1,6 @@
+trait,weight,minimum,maximum,rows_equal_50,equal_50_stored_high_count,strict_gt_50_mismatches,non_strict_ge_50_mismatches,inverted_polarity_mismatches
+O,16,0.0,100.0,95103,0,0,95103,3006566
+C,8,0.0,100.0,134977,0,0,134977,3006566
+E,4,0.0,99.0,64411,0,0,64411,3006566
+A,2,0.0,99.0,85114,0,0,85114,3006566
+N,1,0.0,100.0,86450,0,0,86450,3006566

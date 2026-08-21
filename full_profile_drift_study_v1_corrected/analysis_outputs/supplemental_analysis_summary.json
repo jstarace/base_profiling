@@ -1,0 +1,20 @@
+{
+  "binary_bits_used_only_for_hamming_geometry": true,
+  "bootstrap_resamples": 1000,
+  "complete": true,
+  "continuous_targets_are_primary": true,
+  "fixed_sensitivity_subsets": [
+    "all_32",
+    "rows_ge_1000",
+    "rows_ge_10000",
+    "rows_ge_50000",
+    "unique_tuples_ge_10",
+    "unique_tuples_ge_25",
+    "exposure_quartile_1",
+    "exposure_quartile_2",
+    "exposure_quartile_3",
+    "exposure_quartile_4",
+    "pair_row_ratio_le_2_0",
+    "pair_row_ratio_le_1_5"
+  ]
+}

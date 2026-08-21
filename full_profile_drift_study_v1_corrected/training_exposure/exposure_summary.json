@@ -1,0 +1,8 @@
+{
+  "complete": true,
+  "dataset_parquet": "/workspace/full_profile_drift_study_v1/audit/frozen_inputs/tan_pandora.parquet",
+  "max_length": 30001,
+  "max_seq_length": 512,
+  "rows": 3006566,
+  "tokenizer": "/workspace/adapters/ptype_0"
+}

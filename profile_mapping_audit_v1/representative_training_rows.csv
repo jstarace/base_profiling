@@ -1,0 +1,13 @@
+adapter,representative,source_row_index,raw_O,raw_C,raw_E,raw_A,raw_N,recomputed_O_high,recomputed_C_high,recomputed_E_high,recomputed_A_high,recomputed_N_high,independently_recomputed_ptype,stored_ptype,training_adapter_path,target_O_high,target_C_high,target_E_high,target_A_high,target_N_high,match_status
+ptype_0,first,56660,17.0,8.0,16.0,41.0,25.0,0,0,0,0,0,0,0,/workspace/adapters/ptype_0,0,0,0,0,0,MATCH
+ptype_0,middle,2053709,17.0,50.0,8.0,0.0,9.0,0,0,0,0,0,0,0,/workspace/adapters/ptype_0,0,0,0,0,0,MATCH
+ptype_0,last,3001791,36.0,36.0,38.0,13.0,0.0,0,0,0,0,0,0,0,/workspace/adapters/ptype_0,0,0,0,0,0,MATCH
+ptype_31,first,40173,85.0,97.0,61.0,87.0,67.0,1,1,1,1,1,31,31,/workspace/adapters/ptype_31,1,1,1,1,1,MATCH
+ptype_31,middle,676561,71.0,75.0,52.0,94.0,86.0,1,1,1,1,1,31,31,/workspace/adapters/ptype_31,1,1,1,1,1,MATCH
+ptype_31,last,2718554,89.0,84.0,97.0,58.0,58.0,1,1,1,1,1,31,31,/workspace/adapters/ptype_31,1,1,1,1,1,MATCH
+ptype_9,first,18584,1.0,71.0,0.0,28.0,59.0,0,1,0,0,1,9,9,/workspace/adapters/ptype_9,0,1,0,0,1,MATCH
+ptype_9,middle,1660679,1.0,92.0,1.0,18.0,97.0,0,1,0,0,1,9,9,/workspace/adapters/ptype_9,0,1,0,0,1,MATCH
+ptype_9,last,3005129,3.0,85.0,19.0,50.0,92.0,0,1,0,0,1,9,9,/workspace/adapters/ptype_9,0,1,0,0,1,MATCH
+ptype_23,first,408468,54.0,20.0,59.0,69.0,88.0,1,0,1,1,1,23,23,/workspace/adapters/ptype_23,1,0,1,1,1,MATCH
+ptype_23,middle,2833844,91.0,12.0,56.0,51.0,75.0,1,0,1,1,1,23,23,/workspace/adapters/ptype_23,1,0,1,1,1,MATCH
+ptype_23,last,2865924,79.0,19.0,84.0,82.0,63.0,1,0,1,1,1,23,23,/workspace/adapters/ptype_23,1,0,1,1,1,MATCH

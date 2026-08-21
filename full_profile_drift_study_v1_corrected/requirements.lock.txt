@@ -1,0 +1,14 @@
+accelerate==1.14.0
+inspect-ai==0.3.251
+matplotlib==3.10.8
+numpy==2.5.1
+pandas==3.0.3
+peft==0.19.1
+pyarrow==25.0.0
+pytest==9.1.1
+safetensors==0.8.0
+scikit-learn==1.8.0
+scipy==1.17.0
+torch==2.13.0
+transformers==5.14.1
+
